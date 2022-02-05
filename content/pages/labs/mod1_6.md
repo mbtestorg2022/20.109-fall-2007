@@ -43,18 +43,144 @@ The bacterial strains will be lysed to release all their proteins.
 7.  Put lid locks on the eppendorf tubes and boil for 5 minutes.
 8.  Put on gloves. Load the indicated volumes of each sample onto your acrylamide gel in the order below. Once you have loaded a sample from one tube, move it to a different row in your eppendorf tube rack. This will help you keep track of which samples you have loaded.  
     
-    | LANES | SAMPLES | VOLUMES to LOAD |
-    | --- | --- | --- |
-    | 1 | ["Kaleidoscope" protein molecular weight standards](http://www.bio-rad.com/B2B/BioRad/br_corp.jsp?BV_SessionID=@@@@1030078424.1205477523@@@@&BV_EngineID=ccchadedigmkdhjcfngcfkmdhkkdflm.0&loggedIn=false&country=HQ&lang=English) | 5 µl |
-    | 2 | M13KO7 positive control strain | 25 µl |
-    | 3 | Candidate 1 | 25 µl |
-    | 4 | Candidate 2 | 25 µl |
-    | 5 | Empty | &nbsp; |
-    | 6 | ["Kaleidoscope" protein molecular weight standards](http://www.bio-rad.com/webroot/web/pdf/lsr/literature/4110182.pdf) | 5 µl |
-    | 7 | M13KO7 positive control strain | 25 µl |
-    | 8 | Candidate 1 | 25 µl |
-    | 9 | Candidate 2 | 25 µl |
-    | 10 | Empty |   
+    {{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+    LANES
+    {{< thclose >}}
+    {{< thopen >}}
+    SAMPLES
+    {{< thclose >}}
+    {{< thopen >}}
+    VOLUMES to LOAD
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    1
+    {{< tdclose >}}
+    {{< tdopen >}}
+    ["Kaleidoscope" protein molecular weight standards](http://www.bio-rad.com/B2B/BioRad/br_corp.jsp?BV_SessionID=@@@@1030078424.1205477523@@@@&BV_EngineID=ccchadedigmkdhjcfngcfkmdhkkdflm.0&loggedIn=false&country=HQ&lang=English)
+    {{< tdclose >}}
+    {{< tdopen >}}
+    5 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    2
+    {{< tdclose >}}
+    {{< tdopen >}}
+    M13KO7 positive control strain
+    {{< tdclose >}}
+    {{< tdopen >}}
+    25 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    3
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Candidate 1
+    {{< tdclose >}}
+    {{< tdopen >}}
+    25 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    4
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Candidate 2
+    {{< tdclose >}}
+    {{< tdopen >}}
+    25 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    5
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Empty
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    6
+    {{< tdclose >}}
+    {{< tdopen >}}
+    ["Kaleidoscope" protein molecular weight standards](http://www.bio-rad.com/webroot/web/pdf/lsr/literature/4110182.pdf)
+    {{< tdclose >}}
+    {{< tdopen >}}
+    5 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    7
+    {{< tdclose >}}
+    {{< tdopen >}}
+    M13KO7 positive control strain
+    {{< tdclose >}}
+    {{< tdopen >}}
+    25 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    8
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Candidate 1
+    {{< tdclose >}}
+    {{< tdopen >}}
+    25 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    9
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Candidate 2
+    {{< tdclose >}}
+    {{< tdopen >}}
+    25 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    10
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Empty
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
 9.  Once all the samples are loaded, turn on the power and run the gel at 200 V. The molecular weight standards are pre-stained and will separate as the gel runs. The gel should take approximately one hour to run. During that hour, you should work on part two of today's protocol.
 10.  Wearing gloves, disassemble the electrophoresis chamber.

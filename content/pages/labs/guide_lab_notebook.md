@@ -42,18 +42,171 @@ Evaluation
 
 Teaching assistants will collect the duplicate copy of your notebook pages and evaluate them as follows:
 
-| LAB NOTEBOOK | EVALUATION |
-| --- | --- |
-| Date of experiment | √- | √ | √+ |
-| Module/Day # | √- | √ | √+ |
-| Title for experiment | √- | √ | √+ |
-| Brief statement of purpose | √- | √ | √+ |
-| Protocol | √- | √ | √+ |
-| Tables for data entry | √- | √ | √+ |
-| Calculations entered | √- | √ | √+ |
-| Data labeled | √- | √ | √+ |
-| Summary/Interpretation | √- | √ | √+ |
-| Overall | √- | √ | √+ 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LAB NOTEBOOK
+{{< thclose >}}
+{{< thopen >}}
+EVALUATION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Date of experiment
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Module/Day #
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Title for experiment
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Brief statement of purpose
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Protocol
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tables for data entry
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Calculations entered
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Data labeled
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Summary/Interpretation
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Overall
+{{< tdclose >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Things to Remember
 ------------------

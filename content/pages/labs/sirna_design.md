@@ -44,14 +44,75 @@ Design of siRNA Against Renilla Luciferase
 
 Renilla reniformis is a soft coral, often called a sea pansy, which washes up on Florida beaches after a storm. It will bioluminesce when disturbed due to GFP and a gene for a second light-making protein, luciferase. The biochemistry of the luminescence will be described in detail a few days from now. Today, you and your partner will examine Renilla's gene for luciferase and will be assigned one portion to target for RNAi.
 
-| TEAM COLORS | TARGETS |
-| --- | --- |
-| Green | R\_luc bp 1-156 |
-| Purple | R\_luc bp 157-312 |
-| Red | R\_luc bp 313-468 |
-| Blue | R\_luc bp 469-624 |
-| Pink | R\_luc bp 625-780 |
-| Yellow | R\_luc bp 781-936 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TEAM COLORS
+{{< thclose >}}
+{{< thopen >}}
+TARGETS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Green
+{{< tdclose >}}
+{{< tdopen >}}
+R\_luc bp 1-156
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Purple
+{{< tdclose >}}
+{{< tdopen >}}
+R\_luc bp 157-312
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Red
+{{< tdclose >}}
+{{< tdopen >}}
+R\_luc bp 313-468
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Blue
+{{< tdclose >}}
+{{< tdopen >}}
+R\_luc bp 469-624
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pink
+{{< tdclose >}}
+{{< tdopen >}}
+R\_luc bp 625-780
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Yellow
+{{< tdclose >}}
+{{< tdopen >}}
+R\_luc bp 781-936
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Begin by retrieving the sequence of the gene you hope to silence. Open a Web browser program and go to [the Promega homepage](http://www.promega.com/Catalog/CountrySelect.aspx?returnurl=/default.asp). The Renilla luciferase gene was fully sequenced [in 1991](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=1674607&ordinalpos=3&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum) but the clone you will study is expressed on a plasmid that is commercially available from Promega.
 

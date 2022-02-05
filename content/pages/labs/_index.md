@@ -47,16 +47,99 @@ Photo of M13-coated coli removed due to copyright restrictions.
 
 Map of M13 genome from M. Blaber. (Images courtesy of Dr. Michael Blaber. Used with permission.)
 
-| MODULES DAY | LAB TOPICS |
-| --- | --- |
-| 1 | [Start-up genome engineering]({{< baseurl >}}/pages/labs/mod1_1) |
-| 2 | [Agarose gel electrophoresis]({{< baseurl >}}/pages/labs/mod1_2) |
-| 3 | [DNA ligation and bacterial transformation]({{< baseurl >}}/pages/labs/mod1_3) |
-| 4 | [Examine candidate clones]({{< baseurl >}}/pages/labs/examine_clones) |
-| 5 | [M13.1]({{< baseurl >}}/pages/labs/mod1_5) |
-| 6 | [Western analysis]({{< baseurl >}}/pages/labs/mod1_6) |
-| 7 |  {{< br >}}{{< br >}} [Probe western]({{< baseurl >}}/pages/labs/mod1_7) {{< br >}}{{< br >}} Lecture on environmental health and safety (no materials) {{< br >}}{{< br >}}  |
-| 8 | Oral presentations 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MODULES DAY
+{{< thclose >}}
+{{< thopen >}}
+LAB TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Start-up genome engineering]({{< baseurl >}}/pages/labs/mod1_1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Agarose gel electrophoresis]({{< baseurl >}}/pages/labs/mod1_2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[DNA ligation and bacterial transformation]({{< baseurl >}}/pages/labs/mod1_3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Examine candidate clones]({{< baseurl >}}/pages/labs/examine_clones)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[M13.1]({{< baseurl >}}/pages/labs/mod1_5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Western analysis]({{< baseurl >}}/pages/labs/mod1_6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Probe western]({{< baseurl >}}/pages/labs/mod1_7)
+
+Lecture on environmental health and safety (no materials)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [Working Page for M13 Refactoring]({{< baseurl >}}/pages/labs/mod1_m13refactor)
 
@@ -77,16 +160,93 @@ In this experiment, we will consider unintended and unpredicted effects of an ex
 
 Child jumping through sprinkler, with sunlight. Photo by Natalie Kuldell.
 
-| MODULES DAY | LAB TOPICS |
-| --- | --- |
-| 1 | [siRNA design and introduction to cell culture]({{< baseurl >}}/pages/labs/sirna_design) |
-| 2 | [Transfection]({{< baseurl >}}/pages/labs/transfection) |
-| 3 | [Luciferase assays and RNA prep]({{< baseurl >}}/pages/labs/luciferase_assay) |
-| 4 | [Journal article discussion]({{< baseurl >}}/pages/labs/mod2_4) |
-| 5 | [cDNA synthesis and microarray]({{< baseurl >}}/pages/labs/mod2_5) |
-| 6 | [Microarray data analysis]({{< baseurl >}}/pages/labs/mod2_6) |
-| 7 | High throughput technologies (no materials) |
-| 8 | Oral presentations 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MODULES DAY
+{{< thclose >}}
+{{< thopen >}}
+LAB TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[siRNA design and introduction to cell culture]({{< baseurl >}}/pages/labs/sirna_design)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Transfection]({{< baseurl >}}/pages/labs/transfection)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Luciferase assays and RNA prep]({{< baseurl >}}/pages/labs/luciferase_assay)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Journal article discussion]({{< baseurl >}}/pages/labs/mod2_4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[cDNA synthesis and microarray]({{< baseurl >}}/pages/labs/mod2_5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Microarray data analysis]({{< baseurl >}}/pages/labs/mod2_6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+High throughput technologies (no materials)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Pedagogy
 

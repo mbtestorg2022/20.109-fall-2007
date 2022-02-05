@@ -33,15 +33,218 @@ Submit your annotated sequence as well as a human-readable text to describe your
 Redesign Ideas from 20.109 (S07)
 --------------------------------
 
-| GENE | IDEAS |
-| --- | --- |
-| II |  {{< br >}}{{< br >}} Make p2 sensitive to and perhaps degraded by any one of various stimuli (e.g. heat, light, pH, chemical input) so replication can be regulated {{< br >}}{{< br >}} Encode so that p2 can be switched on and off based on the environment which it's in, for example: stops replication of phage genome when in a certain concentration of Ca2+ enters the cell {{< br >}}{{< br >}} Make p2 require a cofactor that must be added before replication of the phage begins {{< br >}}{{< br >}} Make p2 count the number of times it nicks DNA {{< br >}}{{< br >}} Modify p2 in a way that helps p5 sequester the + strands more effectively, perhaps making p5 work more efficiently by reducing competition {{< br >}}{{< br >}} Modify such that it not only nicks the double stranded form of the genome to initiate replication of the + strand, but also nicks the - strand to impede the formation of dsDNA (this would also help p5) {{< br >}}{{< br >}} Separate g2 and g10 by inserting entire sequence of g10 after transcription end of g2/g10 (essentially repeating g10 twice in succession), so that the two genes are independent {{< br >}}{{< br >}} Alter the gene to make it more active and thus replicate DNA more frequently — see how increased DNA production affects phage growth {{< br >}}{{< br >}} Modify so it can nick foreign DNA (e.g. the E. coli's) and the phage can replicate and package a portion of the host DNA {{< br >}}{{< br >}} Remove p2 and p5 to see if the bacteria still make the phage gene products without replicating the phage DNA {{< br >}}{{< br >}}  |
-| X |  {{< br >}}{{< br >}} Make p10 sensitive to a different stimulus than p2 to again regulate replication {{< br >}}{{< br >}} Perhaps a dual control mechanism for p2 and p10 expression {{< br >}}{{< br >}} Increase the number of p10 so that the phage can produce more double strands {{< br >}}{{< br >}} Modify such that the + strands of DNA are not soley dependent on the presence of p10. This modification works together with our modification of p2 {{< br >}}{{< br >}} Put a tag on p10 to see what it binds at various parts of replication. This will help elucidate how it controls the amount of double stranded M13 genomes {{< br >}}{{< br >}} Modify to add another level of regulation for phage propagation. This, coupled with control of II, could allow complex control of the life cycle behavior of the virus {{< br >}}{{< br >}} Make pX more active so that more + strands will accumulate, allowing the host cell to produce even more phages {{< br >}}{{< br >}} Extract from gene II {{< br >}}{{< br >}}  |
-| V |  {{< br >}}{{< br >}} Add a tag different from p8 (e.g. RFP) to determine what stage of the phage life cycle it is in or to monitor levels of p5-ssDNA complex {{< br >}}{{< br >}} Alter interaction with p9/p7 so that a limited number of ssDNA may be surrounded by p8 at a time {{< br >}}{{< br >}} Make it sensitive to mechanism that allows for assay of DNA amount and location, change its assembly mechanism to influence phage size {{< br >}}{{< br >}} Modify protein so that similar proteins, other than p8 can bind to the surface {{< br >}}{{< br >}} Remove overlap of p5 gene with start codon of gene for p7. An activation site could be added in prior to start codon in gene for p7 that could be used to allow only limited amounts of pV ( and pVII) to be expressed. This could give control over the the quantity of fully assembled phage to be produced by the host {{< br >}}{{< br >}} Modify such that p5 can sequester the + stranded DNA more effectively so that there is less competition with the formation of double stranded {{< br >}}{{< br >}} Vary the activity of the protein and thus the competition between dsDNA formation and the sequestering of ssDNA- compare the results to find the optimum level of phage production possible {{< br >}}{{< br >}} Modify expression so that we can control the amount of time the virus DNA spends inside the host (as opposed to actively being packaged and spreading to other bacteria) {{< br >}}{{< br >}} Allow it to sequester double stranded DNA also, then it can be used as a vector for infecting cells with desired DNA fragments {{< br >}}{{< br >}} Add more DNA binding sites to see if more DNA can be packaged into phage {{< br >}}{{< br >}} Add some base pairs between V and VII to allow for a restriction site {{< br >}}{{< br >}}  |
-| VII |  {{< br >}}{{< br >}} Alter gene so protein adopts different/more flexible conformation. A change in conformation might expand the different residues that can be attatched to its N-terminal portion {{< br >}}{{< br >}} Change the way p7 interacts with p9 {{< br >}}{{< br >}} Modify to increase rate host will shed phage, i.e. decrease the phage-host interaction time {{< br >}}{{< br >}} Modify the last few codons to remove overlap with the gene encoding p9 {{< br >}}{{< br >}} Add sequence to the 5' end of gene so protein could build nanowires or long filaments or other useful materials {{< br >}}{{< br >}} Delete to learn more about its function {{< br >}}{{< br >}} Increase it's expression to learn more about its function {{< br >}}{{< br >}} Tag protein to monitor interaction with p5/DNA complex {{< br >}}{{< br >}}  |
-| IX |  {{< br >}}{{< br >}} Modify p9 to bind to p3 to create long filaments of phage lined up end to end {{< br >}}{{< br >}} Modify to express different reactive chains on the phage surface {{< br >}}{{< br >}} Change the function so that p9 will now lyse the bacteria {{< br >}}{{< br >}} Modify to make the phage secretion occur at a faster rate so that interaction time with the host is reduced {{< br >}}{{< br >}} Modify beginning and end sequences so that g9 does not overlap with g7 and g8 {{< br >}}{{< br >}} Modify the p9 so that it can bind to bacterial surface proteins (the way p3 does) — see if this allows the phage to interact with other bacteria (now that both ends of the phage can bind and perhaps bridge the two bacterial cells) {{< br >}}{{< br >}}  |
-| VIII |  {{< br >}}{{< br >}} Add epitope or other tags, e.g. x-ray sensitive, UV sensitive, flourescent {{< br >}}{{< br >}} Alter gene so p8 has an affinity for certain residues or salts. This can vastly increase the function of m13 as a whole. It can be used to transport different things into bacteria {{< br >}}{{< br >}} Change p8 interactions with p5 to regulate size of phage or influence shape of phage by changing how it assembles into a coat {{< br >}}{{< br >}} Alter gene so fewer copies of p8 fit on phage coat allowing a more flexible packing structure {{< br >}}{{< br >}} Insert sequence between genes for p5 and p8 to isolate production of these proteins and control their expression levels via activation or repression sites {{< br >}}{{< br >}} Change amino acid sequence to allow p8 (and thus the entire virus) to bind to certain materials, like metals {{< br >}}{{< br >}} Add a small protein to the gene for p8 to amplify because p8 is synthesized so many times {{< br >}}{{< br >}} uncoupled gene for p8 from the gene for p9 {{< br >}}{{< br >}}  |
-| III |  {{< br >}}{{< br >}} Add epitope or other tags, e.g. X-ray sensitive, UV sensitive, flourescent {{< br >}}{{< br >}} Modify portion of p3 that normally interacts with TolA on bacterial pilus to vary phage selectivity to different or only certain bacteria {{< br >}}{{< br >}} Make p3 bigger so that the phage can bind to objects easier and so that they might bind to bigger objects {{< br >}}{{< br >}} Selective degredation of p3 to control the maximum amount of DNA allowable on the phage sequence {{< br >}}{{< br >}} Modify to monitor the timing of the phage escape from host {{< br >}}{{< br >}} Add sequence to make the tail protein longer {{< br >}}{{< br >}} Make series of changes to explore the mechanism by which p3 enters and exits the cell. For example: exchange charged amino acids for neutral, acidic for neutral or basic, etc. {{< br >}}{{< br >}} Delay the time at which the p3/p6 cap is added by making p3 expression a function of environmental cues such as ionic strength or pH. Could also study the effect this would have on the infection process since p3 is also the protein which binds to the TolA protein on the bacterial pilus {{< br >}}{{< br >}} Change the GTG to ATG start {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GENE
+{{< thclose >}}
+{{< thopen >}}
+IDEAS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Make p2 sensitive to and perhaps degraded by any one of various stimuli (e.g. heat, light, pH, chemical input) so replication can be regulated
+
+Encode so that p2 can be switched on and off based on the environment which it's in, for example: stops replication of phage genome when in a certain concentration of Ca2+ enters the cell
+
+Make p2 require a cofactor that must be added before replication of the phage begins
+
+Make p2 count the number of times it nicks DNA
+
+Modify p2 in a way that helps p5 sequester the + strands more effectively, perhaps making p5 work more efficiently by reducing competition
+
+Modify such that it not only nicks the double stranded form of the genome to initiate replication of the + strand, but also nicks the - strand to impede the formation of dsDNA (this would also help p5)
+
+Separate g2 and g10 by inserting entire sequence of g10 after transcription end of g2/g10 (essentially repeating g10 twice in succession), so that the two genes are independent
+
+Alter the gene to make it more active and thus replicate DNA more frequently — see how increased DNA production affects phage growth
+
+Modify so it can nick foreign DNA (e.g. the E. coli's) and the phage can replicate and package a portion of the host DNA
+
+Remove p2 and p5 to see if the bacteria still make the phage gene products without replicating the phage DNA
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Make p10 sensitive to a different stimulus than p2 to again regulate replication
+
+Perhaps a dual control mechanism for p2 and p10 expression
+
+Increase the number of p10 so that the phage can produce more double strands
+
+Modify such that the + strands of DNA are not soley dependent on the presence of p10. This modification works together with our modification of p2
+
+Put a tag on p10 to see what it binds at various parts of replication. This will help elucidate how it controls the amount of double stranded M13 genomes
+
+Modify to add another level of regulation for phage propagation. This, coupled with control of II, could allow complex control of the life cycle behavior of the virus
+
+Make pX more active so that more + strands will accumulate, allowing the host cell to produce even more phages
+
+Extract from gene II
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+V
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Add a tag different from p8 (e.g. RFP) to determine what stage of the phage life cycle it is in or to monitor levels of p5-ssDNA complex
+
+Alter interaction with p9/p7 so that a limited number of ssDNA may be surrounded by p8 at a time
+
+Make it sensitive to mechanism that allows for assay of DNA amount and location, change its assembly mechanism to influence phage size
+
+Modify protein so that similar proteins, other than p8 can bind to the surface
+
+Remove overlap of p5 gene with start codon of gene for p7. An activation site could be added in prior to start codon in gene for p7 that could be used to allow only limited amounts of pV ( and pVII) to be expressed. This could give control over the the quantity of fully assembled phage to be produced by the host
+
+Modify such that p5 can sequester the + stranded DNA more effectively so that there is less competition with the formation of double stranded
+
+Vary the activity of the protein and thus the competition between dsDNA formation and the sequestering of ssDNA- compare the results to find the optimum level of phage production possible
+
+Modify expression so that we can control the amount of time the virus DNA spends inside the host (as opposed to actively being packaged and spreading to other bacteria)
+
+Allow it to sequester double stranded DNA also, then it can be used as a vector for infecting cells with desired DNA fragments
+
+Add more DNA binding sites to see if more DNA can be packaged into phage
+
+Add some base pairs between V and VII to allow for a restriction site
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VII
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Alter gene so protein adopts different/more flexible conformation. A change in conformation might expand the different residues that can be attatched to its N-terminal portion
+
+Change the way p7 interacts with p9
+
+Modify to increase rate host will shed phage, i.e. decrease the phage-host interaction time
+
+Modify the last few codons to remove overlap with the gene encoding p9
+
+Add sequence to the 5' end of gene so protein could build nanowires or long filaments or other useful materials
+
+Delete to learn more about its function
+
+Increase it's expression to learn more about its function
+
+Tag protein to monitor interaction with p5/DNA complex
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IX
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Modify p9 to bind to p3 to create long filaments of phage lined up end to end
+
+Modify to express different reactive chains on the phage surface
+
+Change the function so that p9 will now lyse the bacteria
+
+Modify to make the phage secretion occur at a faster rate so that interaction time with the host is reduced
+
+Modify beginning and end sequences so that g9 does not overlap with g7 and g8
+
+Modify the p9 so that it can bind to bacterial surface proteins (the way p3 does) — see if this allows the phage to interact with other bacteria (now that both ends of the phage can bind and perhaps bridge the two bacterial cells)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VIII
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Add epitope or other tags, e.g. x-ray sensitive, UV sensitive, flourescent
+
+Alter gene so p8 has an affinity for certain residues or salts. This can vastly increase the function of m13 as a whole. It can be used to transport different things into bacteria
+
+Change p8 interactions with p5 to regulate size of phage or influence shape of phage by changing how it assembles into a coat
+
+Alter gene so fewer copies of p8 fit on phage coat allowing a more flexible packing structure
+
+Insert sequence between genes for p5 and p8 to isolate production of these proteins and control their expression levels via activation or repression sites
+
+Change amino acid sequence to allow p8 (and thus the entire virus) to bind to certain materials, like metals
+
+Add a small protein to the gene for p8 to amplify because p8 is synthesized so many times
+
+uncoupled gene for p8 from the gene for p9
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Add epitope or other tags, e.g. X-ray sensitive, UV sensitive, flourescent
+
+Modify portion of p3 that normally interacts with TolA on bacterial pilus to vary phage selectivity to different or only certain bacteria
+
+Make p3 bigger so that the phage can bind to objects easier and so that they might bind to bigger objects
+
+Selective degredation of p3 to control the maximum amount of DNA allowable on the phage sequence
+
+Modify to monitor the timing of the phage escape from host
+
+Add sequence to make the tail protein longer
+
+Make series of changes to explore the mechanism by which p3 enters and exits the cell. For example: exchange charged amino acids for neutral, acidic for neutral or basic, etc.
+
+Delay the time at which the p3/p6 cap is added by making p3 expression a function of environmental cues such as ionic strength or pH. Could also study the effect this would have on the infection process since p3 is also the protein which binds to the TolA protein on the bacterial pilus
+
+Change the GTG to ATG start
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 

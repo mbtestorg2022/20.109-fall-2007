@@ -26,16 +26,132 @@ Photo of M13-coated coli removed due to copyright restrictions.
 
 Map of M13 genome from M. Blaber. (Images courtesy of Dr. Michael Blaber. Used with permission.)
 
-| SES # | MODULE DAY | TOPICS |
-| --- | --- | --- |
-| 2 | 1 | Start-up genome engineering ([PDF]({{< baseurl >}}/resources/lec1_1)) |
-| 3 | 2 | Agarose gel electrophoresis ([PDF]({{< baseurl >}}/resources/lec1_2)) |
-| 4 | 3 | DNA ligation and bacterial transformation ([PDF]({{< baseurl >}}/resources/lec1_3)) |
-| 5 | 4 | Examine candidate clones ([PDF]({{< baseurl >}}/resources/lec1_4)) |
-| 6 | 5 |  {{< br >}}{{< br >}} M13.1 ([PDF]({{< baseurl >}}/resources/lec1_5)) {{< br >}}{{< br >}} Lecture on oral presentations ([PDF]({{< baseurl >}}/resources/lec1_5_atissa)) {{< br >}}{{< br >}}  |
-| 7 | 6 | Western analysis ([PDF]({{< baseurl >}}/resources/lec1_6)) |
-| 8 | 7 |  {{< br >}}{{< br >}} Probe western ([PDF - 1.1 MB]({{< baseurl >}}/resources/lec1_7)) {{< br >}}{{< br >}} Lecture on environmental health and safety {{< br >}}{{< br >}}  |
-| 9 | 8 | Oral presentations 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+MODULE DAY
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Start-up genome engineering ([PDF]({{< baseurl >}}/resources/lec1_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Agarose gel electrophoresis ([PDF]({{< baseurl >}}/resources/lec1_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+DNA ligation and bacterial transformation ([PDF]({{< baseurl >}}/resources/lec1_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Examine candidate clones ([PDF]({{< baseurl >}}/resources/lec1_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+M13.1 ([PDF]({{< baseurl >}}/resources/lec1_5))
+
+Lecture on oral presentations ([PDF]({{< baseurl >}}/resources/lec1_5_atissa))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Western analysis ([PDF]({{< baseurl >}}/resources/lec1_6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Probe western ([PDF - 1.1 MB]({{< baseurl >}}/resources/lec1_7))
+
+Lecture on environmental health and safety
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Module 2: Expression Engineering
 --------------------------------
@@ -50,16 +166,126 @@ In this experiment, we will consider unintended and unpredicted effects of an ex
 
 Child jumping through sprinkler, with sunlight. Photo by Natalie Kuldell.
 
-| SES # | MODULE DAY | TOPICS |
-| --- | --- | --- |
-| 10 | 1 | siRNA design and introduction to cell culture ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec2_1)) |
-| 11 | 2 | Transfection ([PDF - 1.1 MB]({{< baseurl >}}/resources/lec2_2)) |
-| 12 | 3 | Luciferase assays and RNA prep ([PDF]({{< baseurl >}}/resources/lec2_3)) |
-| 13 | 4 |  {{< br >}}{{< br >}} [Journal article discussion]({{< baseurl >}}/pages/labs/mod2_4) {{< br >}}{{< br >}} Lecture on written reports and scientific writing ([PDF]({{< baseurl >}}/resources/lec2_4_writing)) {{< br >}}{{< br >}}  |
-| 14 | 5 | cDNA synthesis and microarray ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec2_5)) |
-| 15 | 6 | Microarray data analysis |
-| 16 | 7 | High throughput technologies ([PDF]({{< baseurl >}}/resources/lec2_7)) |
-| 17 | 8 | Oral presentations 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+MODULE DAY
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+siRNA design and introduction to cell culture ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec2_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Transfection ([PDF - 1.1 MB]({{< baseurl >}}/resources/lec2_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Luciferase assays and RNA prep ([PDF]({{< baseurl >}}/resources/lec2_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Journal article discussion]({{< baseurl >}}/pages/labs/mod2_4)
+
+Lecture on written reports and scientific writing ([PDF]({{< baseurl >}}/resources/lec2_4_writing))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+cDNA synthesis and microarray ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec2_5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Microarray data analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+High throughput technologies ([PDF]({{< baseurl >}}/resources/lec2_7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Module 3: Biomaterials Engineering
 ----------------------------------

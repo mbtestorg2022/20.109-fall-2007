@@ -89,12 +89,72 @@ One of the most useful resources for restriction enzyme information is the websi
 
 Next, use the [NEB Web site](http://www.neb.com/nebecomm/default.asp) or the paper copy of their catalog to look up the recognition sites for the enzyme BamHI. What overhang does it leave? what buffer is recommended? what temperature does it work best at? You will perform a restriction digest with BamHI which cuts the gene for p3. Label two tubes with your team color, the name of the DNA you'll digest, and the name of the enzyme (if used).
 
-| TO MODIFY g3 | UNCUT CONTROL | DIGEST |
-| --- | --- | --- |
-| DNA | 20 µl M13KO7 | 20 µl M13KO7 |
-| H2O | To a final volume of 25 µl | To a final volume of 25 µl |
-| Buffer (as directed by NEB) | 2.5 µl 10X NEB buffer | 2.5 µl 10X NEB buffer |
-| Enzyme | None | 0.5 µl BamHI 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TO MODIFY g3
+{{< thclose >}}
+{{< thopen >}}
+UNCUT CONTROL
+{{< thclose >}}
+{{< thopen >}}
+DIGEST
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+DNA
+{{< tdclose >}}
+{{< tdopen >}}
+20 µl M13KO7
+{{< tdclose >}}
+{{< tdopen >}}
+20 µl M13KO7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+H2O
+{{< tdclose >}}
+{{< tdopen >}}
+To a final volume of 25 µl
+{{< tdclose >}}
+{{< tdopen >}}
+To a final volume of 25 µl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Buffer (as directed by NEB)
+{{< tdclose >}}
+{{< tdopen >}}
+2.5 µl 10X NEB buffer
+{{< tdclose >}}
+{{< tdopen >}}
+2.5 µl 10X NEB buffer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Enzyme
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+{{< tdopen >}}
+0.5 µl BamHI
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note 1: For traditional reasons, **the volume of enzyme is not included in the final volume of the reaction**
 
@@ -135,7 +195,7 @@ If the next base in your oligonucleotide was "C" then it would regenerate the Ba
 
 ### Top Strand, Step 3
 
-Add the first of two new restriction sites that will be unique to M13KO7. Review the list of zero cutter enzymes <\*\*link to mod1.1\_zerocutters.txt> that don't cut M13KO7 can be found here. Using the base from step 2 as the first base of the new site, fill in the rest of the sequence for a new restriction site, including commas, slashes or spaces between codons. Underline the new site and then, just below the sequence, write the name of the enzyme that recognizes it.
+Add the first of two new restriction sites that will be unique to M13KO7. Review the list of zero cutter enzymes \<\*\*link to mod1.1\_zerocutters.txt> that don't cut M13KO7 can be found here. Using the base from step 2 as the first base of the new site, fill in the rest of the sequence for a new restriction site, including commas, slashes or spaces between codons. Underline the new site and then, just below the sequence, write the name of the enzyme that recognizes it.
 
 ![DNA Strand 3](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_strand3.jpg)
 

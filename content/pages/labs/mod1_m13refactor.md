@@ -8,20 +8,238 @@ uid: 738ada3b-55cf-2c56-09a5-edffe2df3898
 
 All parts are specified at the [Registry of Standard Biological Parts](http://parts.igem.org/Main_Page). Refine the parts there as well as here.
 
-| GENETIC ELEMENT | PROMOTER | RBS | CODING |
-| --- | --- | --- | --- |
-| &nbsp; || {{< td-colspan 3 >}}**Start synthesis with**{{< /td-colspan >}} |||
-| gII | BBa\_M13102  {{< br >}}(need 5' UTR?) | BBa\_M13502 | BBa\_M13002'  {{< br >}}(modified to remove gene 10 promoter) |
-| gX | BBa\_M13110  {{< br >}}(need 5' UTR?) | BBa\_M13510 | BBa\_M13010'  {{< br >}}(modified to remove gene 5 promoter) |
-| gV | BBa\_M13105  {{< br >}}(need 5' UTR?) | BBa\_M13505 | BBa\_M13005 |
-| gVII | &nbsp; | BBa\_M13507 | BBa\_M13007'  {{< br >}}(modified to remove overlap with gene 9 dwnstm) |
-| gIX | &nbsp; | BBa\_M13509 | BBa\_M13009'  {{< br >}}(modified to remove overlap with gene 8 dwnstm) |
-| gVIII | BBa\_M13108  {{< br >}}(need 5' UTR?) | BBa\_M13508 | BBa\_M13008 |
-| &nbsp; || {{< td-colspan 3 >}}**Transcriptional terminator (if M13KO7 part, then need to modify to remove gene 3 promoter)**{{< /td-colspan >}} |||
-| gIII | BBa\_M13103 | BBa\_M13503 | BBa\_M13003'  {{< br >}}(modified to remove gene 6 promoter, change GTG start?) |
-| gVI | BBa\_M13106 | BBa\_M13506 | BBa\_M13006'  {{< br >}}(modified to remove gene 1 promoter) |
-| gI | BBa\_M13101 | BBa\_M13501 | BBa\_M13001'  {{< br >}}(modified to remove gene 11 RBS, gene 4 promoter, RBS, start) |
-| gXI | &nbsp; | BBa\_M13511 | BBa\_M13011'  {{< br >}}(modified to remove gene 4 promoter, RBS, start) |
-| gIV | BBa\_M13104  {{< br >}}(need 5' UTR?) | BBa\_M13504 | BBa\_M13004' |
-| &nbsp; || {{< td-colspan 3 >}}**M13KO7 ori/KanR/p15a ori**{{< /td-colspan >}} |||
-| &nbsp; || {{< td-colspan 3 >}}**End synthesis**{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GENETIC ELEMENT
+{{< thclose >}}
+{{< thopen >}}
+PROMOTER
+{{< thclose >}}
+{{< thopen >}}
+RBS
+{{< thclose >}}
+{{< thopen >}}
+CODING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+**Start synthesis with**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gII
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13102  
+(need 5' UTR?)
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13502
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13002'  
+(modified to remove gene 10 promoter)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gX
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13110  
+(need 5' UTR?)
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13510
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13010'  
+(modified to remove gene 5 promoter)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gV
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13105  
+(need 5' UTR?)
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13505
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13005
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gVII
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13507
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13007'  
+(modified to remove overlap with gene 9 dwnstm)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gIX
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13509
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13009'  
+(modified to remove overlap with gene 8 dwnstm)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gVIII
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13108  
+(need 5' UTR?)
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13508
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13008
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+**Transcriptional terminator (if M13KO7 part, then need to modify to remove gene 3 promoter)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gIII
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13103
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13503
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13003'  
+(modified to remove gene 6 promoter, change GTG start?)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gVI
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13106
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13506
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13006'  
+(modified to remove gene 1 promoter)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gI
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13101
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13501
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13001'  
+(modified to remove gene 11 RBS, gene 4 promoter, RBS, start)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gXI
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13511
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13011'  
+(modified to remove gene 4 promoter, RBS, start)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+gIV
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13104  
+(need 5' UTR?)
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13504
+{{< tdclose >}}
+{{< tdopen >}}
+BBa\_M13004'
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+**M13KO7 ori/KanR/p15a ori**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+**End synthesis**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -53,13 +53,100 @@ For your ligation, you will mix the M13KO7 backbone you prepared with the anneal
 
 The contents of each ligation will be
 
-Contents Of legation.| &nbsp; | bkb, no ligase | bkb only, plus ligase | bkb + insert, plus ligase |
-| --- | --- | --- | --- |
-| M13KO7 bkb | 4 μl | 4 μl | 4 μl |
-| Insert | None | None | 5 μl |
-| 10X Ligation Buffer^ | 1.0 μl | 1.0 μl | 1.0 μl |
-| T4 DNA Ligase | None | 0.5 μl | 0.5 μl |
-| Water || {{< td-colspan 3 >}} {{< br >}}{{< br >}} To 10 µl not Including Volume of Enzyme {{< br >}}{{< br >}} {{< /td-colspan >}} ||
+Contents Of legation.{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+bkb, no ligase
+{{< thclose >}}
+{{< thopen >}}
+bkb only, plus ligase
+{{< thclose >}}
+{{< thopen >}}
+bkb + insert, plus ligase
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+M13KO7 bkb
+{{< tdclose >}}
+{{< tdopen >}}
+4 μl
+{{< tdclose >}}
+{{< tdopen >}}
+4 μl
+{{< tdclose >}}
+{{< tdopen >}}
+4 μl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Insert
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+{{< tdopen >}}
+5 μl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10X Ligation Buffer^
+{{< tdclose >}}
+{{< tdopen >}}
+1.0 μl
+{{< tdclose >}}
+{{< tdopen >}}
+1.0 μl
+{{< tdclose >}}
+{{< tdopen >}}
+1.0 μl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T4 DNA Ligase
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+{{< tdopen >}}
+0.5 μl
+{{< tdclose >}}
+{{< tdopen >}}
+0.5 μl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+
+
+To 10 µl not Including Volume of Enzyme
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ^New England Biolabs sells 10X Ligation buffer to use with their ligase. It contains ATP so must be kept on ice.
 
@@ -67,11 +154,60 @@ Contents Of legation.| &nbsp; | bkb, no ligase | bkb only, plus ligase | bkb + i
 2.  When the ligation mixes are complete, flick the tubes to mix the contents, quick spin them in the microfuge to bring down any droplets, then incubate the reactions at room temperature for at least 10 minutes.
 3.  Recall that the ligation of your insert into the M13KO7 backbone will destroy the BamHI restriction sites originally used to linearize the genome. Consequently, you can enrich for the proper ligation products by digesting the ligation reactions with the enzyme used to open up the backbone. These are called "kill cuts" since in theory they destroy unwanted ligation products. So while your samples are ligating, you should prepare a "killcut" cocktail according to the table below. By making one mixture that contains water, buffer and enzyme (commonly called a reaction "**cocktail**"), you can add the same mixture to all reactions, minimizing effects of pipet-error and possible accidental errors, like leaving one component out of one reaction that you remember in all the others. You will prepare enough cocktail to perform 4 killcut reactions, even though you have only three. This will assure you have enough volume for the three reactions.  
     
-    Volume information.| &nbsp; | volume in each reaction | x4 = volume in cocktail |
-    | --- | --- | --- |
-    | Water | 8 µl | ? µl |
-    | 10X NEB buffer | 2 µl | ? µl |
-    | Enzyme | 0.25 µl BamHI | ? µl 
+    Volume information.{{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+     
+    {{< thclose >}}
+    {{< thopen >}}
+    volume in each reaction
+    {{< thclose >}}
+    {{< thopen >}}
+    x4 = volume in cocktail
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Water
+    {{< tdclose >}}
+    {{< tdopen >}}
+    8 µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+    ? µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    10X NEB buffer
+    {{< tdclose >}}
+    {{< tdopen >}}
+    2 µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+    ? µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Enzyme
+    {{< tdclose >}}
+    {{< tdopen >}}
+    0.25 µl BamHI
+    {{< tdclose >}}
+    {{< tdopen >}}
+    ? µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
       
     Add 10 µl of the killcut cocktail to each of the ligation reactions you've prepared, pipetting up and down to mix.
@@ -104,12 +240,72 @@ You will perform 4 bacterial transformations, one for each of the three ligation
 8.  While you are waiting, label 4 large glass test tubes with your team color and numbers 1, 2, 3, 4. Mix 10 ml LB with 10 µl of the Kanamycin stock. Aliquot 2.5 ml/tube. This will help the teaching faculty to set up overnight cultures for you for next time.
 9.  Plate 200 µ of each transformation mix on LB+Kan plates, plating the bkb+insert+ligase transformation twice. Note: After dipping the glass spreader in the ethanol jar, then pass it through the flame of the alcohol burner **just long enough to ignite the ethanol. After letting the ethanol burn off, the spreader may still be very hot**, and it is advisable to tap it gently on a portion of the agar plate without cells in order to equilibrate it with the agar (if it sizzles, it's way too hot). Once the plates are done, wrap them with colored tape and incubate them in the 37°C incubator overnight. One of the teaching faculty will remove them from the incubator and set up liquid cultures for you to use next time.  
     
-    Volume information.| Tube | Transformation | Add |
-    | --- | --- | --- |
-    | 1 | Positive control plasmid | 1 µl (5 ng) of M13KO7 DNA |
-    | 2 | bkb, no ligase | 5 µl |
-    | 3 | bkb, plus ligase | 5 µl |
-    | 4 | bkb+insert, plus ligase | 5 µl 
+    Volume information.{{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+    Tube
+    {{< thclose >}}
+    {{< thopen >}}
+    Transformation
+    {{< thclose >}}
+    {{< thopen >}}
+    Add
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    1
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Positive control plasmid
+    {{< tdclose >}}
+    {{< tdopen >}}
+    1 µl (5 ng) of M13KO7 DNA
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    2
+    {{< tdclose >}}
+    {{< tdopen >}}
+    bkb, no ligase
+    {{< tdclose >}}
+    {{< tdopen >}}
+    5 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    3
+    {{< tdclose >}}
+    {{< tdopen >}}
+    bkb, plus ligase
+    {{< tdclose >}}
+    {{< tdopen >}}
+    5 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    4
+    {{< tdclose >}}
+    {{< tdopen >}}
+    bkb+insert, plus ligase
+    {{< tdclose >}}
+    {{< tdopen >}}
+    5 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
 
 DONE!
@@ -128,18 +324,132 @@ Questions 1 and 2 are theoretical but they should help prepare you to interpret 
 3.  Next time you will isolate DNA from four transformants and begin to characterize the plasmids in these bacteria. To prepare for this experiment, you should draw a plasmid map of the M13KO7 genome. Start by printing out the M13KO7 plasmid map from NEB by using their [NEB Cutter tool](http://tools.neb.com/NEBcutter2/index.php), selecting M13KO7 from the "Viral and phage" drop down menu on the right, changing the default minimum ORF to 25 amino acids (do you remember which of the M13 proteins are very small?), and finally telling the program that you are entering circular DNA. Modify the map by hand to indicate which restriction site you are changing, which enzymes you are adding, and how many basepairs of DNA this modification needs. Next, use the plasmid map to help you plan at least two restriction digests that will confirm the presence of the oligonucleotide insert. Recall that the lab does not have every enzyme available so you should double check your idea against the [list of available enzymes](http://openwetware.org/wiki/20.109(F07):_Available_enzymes). It will help to read the introduction for the next lab before you complete this part of the assignment. Be sure to predict the size of the fragments you expect when the plasmid does and doesn't have the oligonucleotide insert. Also include reaction conditions such as buffer and temperature. Use the [NEB Web site](http://www.neb.com/nebecomm/default.asp) for details on various enzymes and reaction conditions.  
       
     
-    Lecture notes files.| &nbsp; | Plasmid with insert | Plasmid no insert |
-    | --- | --- | --- |
-    | {{< td-colspan 3 >}}**Diagnostic digest 1**{{< /td-colspan >}} |||
-    | Enzyme(s) used | &nbsp; |
-    | Buffer used | &nbsp; |
-    | Temperature | &nbsp; |
-    | Predicted fragments | &nbsp; |
-    | {{< td-colspan 3 >}}**Diagnostic** **digest** **2**{{< /td-colspan >}} |||
-    | Enzyme(s) used | &nbsp; |
-    | Buffer used | &nbsp; |
-    | Temperature | &nbsp; |
-    | Predicted fragments | &nbsp; |   
+    Lecture notes files.{{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+     
+    {{< thclose >}}
+    {{< thopen >}}
+    Plasmid with insert
+    {{< thclose >}}
+    {{< thopen >}}
+    Plasmid no insert
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen colspan="3" >}}
+    **Diagnostic digest 1**
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Enzyme(s) used
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Buffer used
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Temperature
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Predicted fragments
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen colspan="3" >}}
+    **Diagnostic** **digest** **2**
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Enzyme(s) used
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Buffer used
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Temperature
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Predicted fragments
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
 4.  Based on the results of your plaque assay, what is the titer of each stock solution of phage? Please show your work. If the plaques appeared different, please consider how the phage genomes differ (M13KO7 is a "helper phage" while E4 is identical to the M13 genome except four glutamic acids are presented on the N-terminus of the p8 protein) and suggest how these differences might account for the differences in plaque morphology.
 5.  Read the article by Chan, Kosuri and Endy. "Refactoring bacteriophage T7" Nature/EMBO Molecular Systems Biology 13 September 2005 [doi:10.1038/msb4100025](http://www.nature.com/msb/journal/v1/n1/full/msb4100025.html) and [News & Views](http://www.nature.com/msb/journal/v1/n1/full/msb4100028.html). Come prepared to discuss this paper during lab next time. To guide your reading and test your understanding, try to answer the following questions (**note: these questions are just to guide your reading and the answers do not have to be turned in**):

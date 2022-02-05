@@ -23,11 +23,60 @@ Layout of the Class: Labs and Assignments
 
 You will perform three series of experiments (called 'modules') over the course of the semester. The modules differ in length and in the ways you will be assessed. The experiments and major assignments are:
 
-| MODULE # | TOPICS | MAJOR ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Genome engineering | Portfolio |
-| 2 | Expression engineering | Written report |
-| 3 | Biomaterials engineering | Oral presentation plus written text 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MODULE #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+MAJOR ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Genome engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Portfolio
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Expression engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Written report
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Biomaterials engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentation plus written text
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 You will be working as pairs throughout the semester, but you will submit individual lab reports and give individual oral presentations.
 
@@ -64,48 +113,519 @@ Lab attendance is mandatory and there are no make-up labs. A family crisis or se
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Genome engineering assignment | 25% |
-| Expression engineering assignment | 25% |
-| Biomaterial engineering assignment | 20% |
-| Journal club oral presentation | 10% |
-| Daily lab quizzes | 5% |
-| Homework | 10% |
-| Laboratory notebooks | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Genome engineering assignment
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Expression engineering assignment
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Biomaterial engineering assignment
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journal club oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daily lab quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory notebooks
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
 Each class session in the following calendar actually consists of a 1 hour lecture and a 4 hour lab.
 
-| SES # | MODULE DAY | TOPICS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | &nbsp; | Orientation | &nbsp; |
-| {{< td-colspan 5 >}}**Module 1: Genome engineering**{{< /td-colspan >}} |||||
-| 2 | 1 | Start-up genome engineering | &nbsp; |
-| 3 | 2 | Agarose gel electrophoresis | &nbsp; |
-| 4 | 3 | DNA ligation and bacterial transformation | &nbsp; |
-| 5 | 4 | Examine candidate clones | &nbsp; |
-| 6 | 5 |  {{< br >}}{{< br >}} M13.1 {{< br >}}{{< br >}} Lecture on oral presentations {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | 6 | Western analysis | &nbsp; |
-| 8 | 7 |  {{< br >}}{{< br >}} Probe western {{< br >}}{{< br >}} Lecture on environmental health and safety {{< br >}}{{< br >}}  | First draft of genome engineering portfolio parts 1, 2, and 4 only is due before you arrive in lab |
-| 9 | 8 | Oral presentations | First draft of genome engineering portfolio part 3 only is due before you arrive in lab |
-| {{< td-colspan 5 >}}**Module 2: Expression engineering**{{< /td-colspan >}} |||||
-| 10 | 1 | siRNA design and start-up in cell culture | &nbsp; |
-| 11 | 2 | Transfection | &nbsp; |
-| 12 | 3 | Luciferase assays and RNA prep | &nbsp; |
-| 13 | 4 |  {{< br >}}{{< br >}} Journal article discussion {{< br >}}{{< br >}} Lecture on written reports and scientific writing {{< br >}}{{< br >}}  | &nbsp; |
-| 14 | 5 | cDNA synthesis and microarray | &nbsp; |
-| 15 | 6 | Microarray data analysis | &nbsp; |
-| 16 | 7 | Lecture on high throughput technologies; no lab | First draft of expression engineering report is due by 5 PM on the day you meet for lab |
-| 17 | 8 | Oral presentations | &nbsp; |
-| {{< td-colspan 5 >}}**Module 3: Biomaterials engineering**{{< /td-colspan >}} |||||
-| 18 | 1 | Growth of phage materials | &nbsp; |
-| 19 | 2 | Phage nanowires | &nbsp; |
-| 20 | 3 | TEM | &nbsp; |
-| 21 | 4 | Phage by design, part 1 | &nbsp; |
-| 22 | 5 | Phage by design, part 2 | &nbsp; |
-| 23 | 6 | ECD assembly | &nbsp; |
-| 24 | 7 | Oral presentations | &nbsp; |
-| 25 | 8 | End of term celebration |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+MODULE DAY
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Orientation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Module 1: Genome engineering**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Start-up genome engineering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Agarose gel electrophoresis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+DNA ligation and bacterial transformation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Examine candidate clones
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+M13.1
+
+Lecture on oral presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Western analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Probe western
+
+Lecture on environmental health and safety
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of genome engineering portfolio parts 1, 2, and 4 only is due before you arrive in lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of genome engineering portfolio part 3 only is due before you arrive in lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Module 2: Expression engineering**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+siRNA design and start-up in cell culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Transfection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Luciferase assays and RNA prep
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Journal article discussion
+
+Lecture on written reports and scientific writing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+cDNA synthesis and microarray
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Microarray data analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture on high throughput technologies; no lab
+{{< tdclose >}}
+{{< tdopen >}}
+First draft of expression engineering report is due by 5 PM on the day you meet for lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Module 3: Biomaterials engineering**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Growth of phage materials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Phage nanowires
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+TEM
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Phage by design, part 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Phage by design, part 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+ECD assembly
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+End of term celebration
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

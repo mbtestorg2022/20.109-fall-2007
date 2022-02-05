@@ -36,9 +36,64 @@ Helpful information and guidelines for reading are presented here. Questions you
 3A. Experimental Matrix
 -----------------------
 
-| TREATMENTS | PROMOTERS EXAMINED | CELL TYPES EXAMINED |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} dsRNA {{< br >}}{{< br >}} Aza-C (demethylase) {{< br >}}{{< br >}} IFN-alpha2a (nonspecific inducer) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} E-cadherin {{< br >}}{{< br >}} p21 {{< br >}}{{< br >}} VEGF {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PC3 and DU45 (human prostate cancer cell lines) {{< br >}}{{< br >}} Hela (human cervical carcinoma) MCF-7 (human breast cancer line) {{< br >}}{{< br >}} HEK293 (embryonic kidney line) {{< br >}}{{< br >}} LNCaP (human prostate cancer) {{< br >}}{{< br >}} J82 and T24 (bladder cancer) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TREATMENTS
+{{< thclose >}}
+{{< thopen >}}
+PROMOTERS EXAMINED
+{{< thclose >}}
+{{< thopen >}}
+CELL TYPES EXAMINED
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+dsRNA
+
+Aza-C (demethylase)
+
+IFN-alpha2a (nonspecific inducer)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+E-cadherin
+
+p21
+
+VEGF
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PC3 and DU45 (human prostate cancer cell lines)
+
+Hela (human cervical carcinoma) MCF-7 (human breast cancer line)
+
+HEK293 (embryonic kidney line)
+
+LNCaP (human prostate cancer)
+
+J82 and T24 (bladder cancer)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 3B: Experimental Techniques
 ---------------------------

@@ -86,10 +86,59 @@ These assays should be performed as you did last time. Refer to the [Module 2 La
 2.  To determine the concentration of RNA in your sample, use the fact that 40 µg/ml of RNA will give a reading of 1 A260.  
       
     
-    | RNA SAMPLES | A260 | CONCENTRATION OF  {{< br >}}DILUTE RNA | CONCENTRATION OF  {{< br >}}UNDILUTED RNA |
-    | --- | --- | --- | --- |
-    | Control sample | &nbsp; |
-    | Variable sample | &nbsp; |   
+    {{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+    RNA SAMPLES
+    {{< thclose >}}
+    {{< thopen >}}
+    A260
+    {{< thclose >}}
+    {{< thopen >}}
+    CONCENTRATION OF  
+    DILUTE RNA
+    {{< thclose >}}
+    {{< thopen >}}
+    CONCENTRATION OF  
+    UNDILUTED RNA
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Control sample
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Variable sample
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
 
 DONE!

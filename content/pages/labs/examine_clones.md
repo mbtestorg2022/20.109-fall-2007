@@ -61,13 +61,85 @@ One of the teaching faculty has set up four overnight LB + kan cultures of bacte
 
 You will perform two diagnostic digests on each of the plasmids you have prepared to see if any have the PCR insert. Use information from the lab manual, the NEB catalog and the plasmid maps you've drawn to choose the enzymes you'll use. The following table may be helpful as you plan your work.
 
-| &nbsp; | DIGEST 1 | DIGEST 2 |
-| --- | --- | --- |
-| Plasmid DNA | 5 µl | 5 µl |
-| 10X NEB buffer | 2.5 µl of buffer#\_\_\_\_\_ | 2.5 µl of buffer#\_\_\_\_\_ |
-| Enzyme | 0.25 µl of \_\_\_\_\_ | 0.25 µl of \_\_\_\_\_ |
-| 2nd Enzyme (if desired) | 0.25 µl of \_\_\_\_\_ | 0.25 µl of \_\_\_\_\_ |
-| H2O || {{< td-colspan 2 >}} {{< br >}}{{< br >}} For a total volume of 25 µl {{< br >}}{{< br >}} {{< /td-colspan >}} |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+DIGEST 1
+{{< thclose >}}
+{{< thopen >}}
+DIGEST 2
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Plasmid DNA
+{{< tdclose >}}
+{{< tdopen >}}
+5 µl
+{{< tdclose >}}
+{{< tdopen >}}
+5 µl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10X NEB buffer
+{{< tdclose >}}
+{{< tdopen >}}
+2.5 µl of buffer#\_\_\_\_\_
+{{< tdclose >}}
+{{< tdopen >}}
+2.5 µl of buffer#\_\_\_\_\_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Enzyme
+{{< tdclose >}}
+{{< tdopen >}}
+0.25 µl of \_\_\_\_\_
+{{< tdclose >}}
+{{< tdopen >}}
+0.25 µl of \_\_\_\_\_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2nd Enzyme (if desired)
+{{< tdclose >}}
+{{< tdopen >}}
+0.25 µl of \_\_\_\_\_
+{{< tdclose >}}
+{{< tdopen >}}
+0.25 µl of \_\_\_\_\_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+H2O
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+
+
+For a total volume of 25 µl
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  Prepare two reaction cocktails with water, buffer and enzyme. Prepare enough of each cocktail for 5 digests. Leave the cocktails on ice.
 2.  Aliquot 5 µl of plasmids into well labeled eppendorf tubes. The labels should include the plasmid name, the enzymes to be added and your team color.
@@ -78,18 +150,164 @@ You will perform two diagnostic digests on each of the plasmids you have prepare
 
 Load your samples on a 1% TAE agarose gel in the following order. Each group should fill 9 wells.
 
-| LANES | SAMPLES | VOLUMES TO LOAD |
-| --- | --- | --- |
-| 1 | [1 kb Marker](http://www.neb.com/nebecomm/products/productN0468.asp) | 5 µl |
-| 2 | Candidate 1, Diagnostic digest 1 | All of reaction volume (~30µl) |
-| 3 | Candidate 2, Diagnostic digest 1 | All of reaction volume (~30µl) |
-| 4 | Candidate 3, Diagnostic digest 1 | All of reaction volume (~30µl) |
-| 5 | Candidate 4, Diagnostic digest 1 |  {{< br >}}{{< br >}} All of reaction volume (~30µl) {{< br >}}{{< br >}}  |
-| 6 | Empty | &nbsp; |
-| 7 | Candidate 1, Diagnostic digest 2 |  {{< br >}}{{< br >}} All of reaction volume (~30µl) {{< br >}}{{< br >}}  |
-| 8 | Candidate 2, Diagnostic digest 2 |  {{< br >}}{{< br >}} All of reaction volume (~30µl) {{< br >}}{{< br >}}  |
-| 9 | Candidate 3, Diagnostic digest 2 |  {{< br >}}{{< br >}} All of reaction volume (~30µl) {{< br >}}{{< br >}}  |
-| 10 | Candidate 4, Diagnostic digest 2 |  {{< br >}}{{< br >}} All of reaction volume (~30µl) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LANES
+{{< thclose >}}
+{{< thopen >}}
+SAMPLES
+{{< thclose >}}
+{{< thopen >}}
+VOLUMES TO LOAD
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[1 kb Marker](http://www.neb.com/nebecomm/products/productN0468.asp)
+{{< tdclose >}}
+{{< tdopen >}}
+5 µl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Candidate 1, Diagnostic digest 1
+{{< tdclose >}}
+{{< tdopen >}}
+All of reaction volume (~30µl)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Candidate 2, Diagnostic digest 1
+{{< tdclose >}}
+{{< tdopen >}}
+All of reaction volume (~30µl)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Candidate 3, Diagnostic digest 1
+{{< tdclose >}}
+{{< tdopen >}}
+All of reaction volume (~30µl)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Candidate 4, Diagnostic digest 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+All of reaction volume (~30µl)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Empty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Candidate 1, Diagnostic digest 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+All of reaction volume (~30µl)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Candidate 2, Diagnostic digest 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+All of reaction volume (~30µl)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Candidate 3, Diagnostic digest 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+All of reaction volume (~30µl)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Candidate 4, Diagnostic digest 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+All of reaction volume (~30µl)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Once all the samples are loaded, the power will be applied (100V for 45 minutes) and the gel will be photographed. While you are waiting, the class will discuss the T7 paper.
 

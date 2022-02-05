@@ -61,14 +61,159 @@ For **each** lipofection you will need:
 1.  Dilute enough carrier for 12.5 lipofections. Let the dilution sit in the hood undisturbed for at least 5 minutes but not more than 30.
 2.  All the lipofections will be done in duplicate with 20 ng of DNA/well and/or 10 pmoles of siRNA/well. Prepare a cocktail with enough material to perform both replicates. The following table may be helpful for your calculations.  
     
-    Lab notes.| TUBES | \[DNA\] STOCKS | VOLUMES DNA NEEDED | \[siRNA\] STOCKS | VOLUMES siRNA NEEDED | OPTIMEM |
-    | --- | --- | --- | --- | --- | --- |
-    | No DNA | \--- | \--- | \--- | \--- | 100 µl |
-    | Plasmid Only | 20 ng/µl | &nbsp; | \--- | \--- | &nbsp; |
-    | siRNA Only | \--- | \--- | 10 pmol/µl | &nbsp; |
-    | Plasmid+siRNA (validated) | 20 ng/µl | &nbsp; | 10 pmol/µl | &nbsp; |
-    | Plasmid+siRNA (scrambled) | 20 ng/µl | &nbsp; | 10 pmol/µl | &nbsp; |
-    | Plasmid+siRNA (experimental) | 20 ng/µl | &nbsp; | 10 pmol/µl | &nbsp; |   
+    Lab notes.{{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+    TUBES
+    {{< thclose >}}
+    {{< thopen >}}
+    \[DNA\] STOCKS
+    {{< thclose >}}
+    {{< thopen >}}
+    VOLUMES DNA NEEDED
+    {{< thclose >}}
+    {{< thopen >}}
+    \[siRNA\] STOCKS
+    {{< thclose >}}
+    {{< thopen >}}
+    VOLUMES siRNA NEEDED
+    {{< thclose >}}
+    {{< thopen >}}
+    OPTIMEM
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    No DNA
+    {{< tdclose >}}
+    {{< tdopen >}}
+    \---
+    {{< tdclose >}}
+    {{< tdopen >}}
+    \---
+    {{< tdclose >}}
+    {{< tdopen >}}
+    \---
+    {{< tdclose >}}
+    {{< tdopen >}}
+    \---
+    {{< tdclose >}}
+    {{< tdopen >}}
+    100 µl
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Plasmid Only
+    {{< tdclose >}}
+    {{< tdopen >}}
+    20 ng/µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+    \---
+    {{< tdclose >}}
+    {{< tdopen >}}
+    \---
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    siRNA Only
+    {{< tdclose >}}
+    {{< tdopen >}}
+    \---
+    {{< tdclose >}}
+    {{< tdopen >}}
+    \---
+    {{< tdclose >}}
+    {{< tdopen >}}
+    10 pmol/µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Plasmid+siRNA (validated)
+    {{< tdclose >}}
+    {{< tdopen >}}
+    20 ng/µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+    10 pmol/µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Plasmid+siRNA (scrambled)
+    {{< tdclose >}}
+    {{< tdopen >}}
+    20 ng/µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+    10 pmol/µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    Plasmid+siRNA (experimental)
+    {{< tdclose >}}
+    {{< tdopen >}}
+    20 ng/µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+    10 pmol/µl
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    {{< tdopen >}}
+     
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
 3.  To the six eppendorf tubes you prepared above, add an equal volume of diluted carrier and pipet up and down to mix.
 4.  Incubate the DNA/RNA/lipofectamine cocktails undisturbed at room temperature for 20 minutes. During this time, aspirate the media from the cells in your 6-well dishes, wash the wells with 2 ml PBS from a 10 ml pipet, then put 1 ml of fresh Pre-transformation Media on the cells, dispensed from a 5 ml pipet.

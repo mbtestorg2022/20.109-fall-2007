@@ -153,7 +153,7 @@ Day before lab:
 2.  Start overnights of 7x NB251 liquid cultures for + control on Western (3 ml of LB+Kan in large tubes), each group needs ~1 ml.
 3.  Pour 2L of LB plates
 4.  Have protein gels and chambers
-5.  For each day, make microtubes of 1X sample buffer without BME (500 µl 2X + 400 µl H2O) add 100 µl of BME to both on day of lab (could parafilm after adding BME, save 2 days). Need <1 ml / group.
+5.  For each day, make microtubes of 1X sample buffer without BME (500 µl 2X + 400 µl H2O) add 100 µl of BME to both on day of lab (could parafilm after adding BME, save 2 days). Need \<1 ml / group.
 6.  Make 3 L of transfer buffer for each day and refrigerate
 7.  Make 1L 1X TBS-T in graduated cylinder, refrigerate, mix in 5% powdered milk close to lab day
 
@@ -228,7 +228,7 @@ Recipes/Reagents
 3.  1kb marker: 10 µl 1kb marker stock (in -20 freezer), 10 µl loading dye, 90 µl H2O
 4.  Western Blot
 5.  5X TBE 5.4% Tris base, 2.75% Boric Acid, 10mM EDTA, pH 8.0
-6.  2X sample dye for protein gel (no BME): 4 ml 10% SDS, 5 ml 40% glycerol, 1 ml 1M Tris 6.8, 0.5 ml <1% bromophenol blue, stocks on NK's bench
+6.  2X sample dye for protein gel (no BME): 4 ml 10% SDS, 5 ml 40% glycerol, 1 ml 1M Tris 6.8, 0.5 ml \<1% bromophenol blue, stocks on NK's bench
 7.  1X sample dye for protein gel: 500 µl 2X sample dye, 400 µl H2O, 100 µl BME
 8.  Running Buffer: 1X TGS (10X from BioRad: 161-0772)
 9.  Western Transfer Buffer: 3.03 g Trizma base, 14.4g glycine, 200 ml methanol to 1L with good H2O. Store at 4°C. (25 mM Tris, 192 mM glycine, 20% v/v methanol)

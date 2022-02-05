@@ -46,18 +46,148 @@ Protocols
 4.  Once all the samples have been loaded, attach the gel box to the power supply and run the gel at 125V for no more than 45 minutes.
 5.  You will be shown how to photograph your gel and excise the relevant bands of DNA.
 
-| LANES | SAMPLES | VOLUMES TO LOAD |
-| --- | --- | --- |
-| 1 | [1 kb Marker](https://www.neb.com/products/n0468-quick-load-1-kb-dna-ladder#Quality,%20Safety%20&%20Legal_Specifications) | 5 µl |
-| 2 | M13KO7 Uncut Sample | All of Reaction Volume (~30µl) |
-| 3 | M13KO7 digested sample | All of reaction volume (~30µl) |
-| 4 | Empty | &nbsp; |
-| 5 | [1 kb Marker](https://www.neb.com/products/n0468-quick-load-1-kb-dna-ladder#Quality,%20Safety%20&%20Legal_Specifications) |  {{< br >}}{{< br >}} 5 µl {{< br >}}{{< br >}}  |
-| 6 | M13KO7 Uncut Sample | All of Reaction Volume (~30µl) |
-| 7 | M13KO7 digested sample | All of reaction volume (~30µl) |
-| 8 | Empty | &nbsp; |
-| 9 | Empty | &nbsp; |
-| 10 | Empty |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LANES
+{{< thclose >}}
+{{< thopen >}}
+SAMPLES
+{{< thclose >}}
+{{< thopen >}}
+VOLUMES TO LOAD
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[1 kb Marker](https://www.neb.com/products/n0468-quick-load-1-kb-dna-ladder#Quality,%20Safety%20&%20Legal_Specifications)
+{{< tdclose >}}
+{{< tdopen >}}
+5 µl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+M13KO7 Uncut Sample
+{{< tdclose >}}
+{{< tdopen >}}
+All of Reaction Volume (~30µl)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+M13KO7 digested sample
+{{< tdclose >}}
+{{< tdopen >}}
+All of reaction volume (~30µl)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Empty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[1 kb Marker](https://www.neb.com/products/n0468-quick-load-1-kb-dna-ladder#Quality,%20Safety%20&%20Legal_Specifications)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+5 µl
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+M13KO7 Uncut Sample
+{{< tdclose >}}
+{{< tdopen >}}
+All of Reaction Volume (~30µl)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+M13KO7 digested sample
+{{< tdclose >}}
+{{< tdopen >}}
+All of reaction volume (~30µl)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Empty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Empty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Empty
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ![Diagram of loading agarose gel.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_2_agaro_gel.jpg)
 

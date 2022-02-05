@@ -48,11 +48,72 @@ Before you begin today's protocol, prepare your bench for working with RNA. This
 
 Calculate the volume needed for 4 ug of each RNA sample, then assemble the annealing reactions in RNase-free eppendorf tubes according to the following table. If you need more than 10 µl for 4 ug of RNA then you should calculate the mass in 10 µl of the more dilute sample and match that mass for the more concentrated sample. You cannot put a volume of RNA greater than 10 µl in the tubes.
 
-| &nbsp; | TUBE A | TUBE B |
-| --- | --- | --- |
-| RNA | 4 µg of RNA from the control sample | 4 µg of RNA from the experimental sample |
-| RNase-free H20 | Bring volume to 10 µl | Bring volume to 10 µl |
-| RT primer |  {{< br >}}{{< br >}} 1 µl Capture Sequence I {{< br >}}{{< br >}} vial 11, **red** {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1 µl Capture Sequence II {{< br >}}{{< br >}} vial 11, **blue** {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+TUBE A
+{{< thclose >}}
+{{< thopen >}}
+TUBE B
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+RNA
+{{< tdclose >}}
+{{< tdopen >}}
+4 µg of RNA from the control sample
+{{< tdclose >}}
+{{< tdopen >}}
+4 µg of RNA from the experimental sample
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+RNase-free H20
+{{< tdclose >}}
+{{< tdopen >}}
+Bring volume to 10 µl
+{{< tdclose >}}
+{{< tdopen >}}
+Bring volume to 10 µl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+RT primer
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1 µl Capture Sequence I
+
+vial 11, **red**
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1 µl Capture Sequence II
+
+vial 11, **blue**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  Heat the annealing reactions to 80°C for 10 minutes then place the tubes on ice for 2 minutes.
 2.  Microfuge the tubes briefly to spin any condensation or droplets down to the bottom of the tube then add 1 µl of "Superase," an RNase inhibitor (Vial 4), and 8 µl of cDNA synthesis cocktail. Because reverse transcriptase is an unstable enzyme, this cocktail must be prepared just before use. The teaching faculty will prepare some for you when you are ready for it.
@@ -144,14 +205,75 @@ The arrays we will use are the [mouse whole genome microarrays](https://www.agil
 
 Figure: Layout of Agilent 4x44K whole mouse genome array.
 
-| TEAM COLOR | AGILENT SLIDE |
-| --- | --- |
-| Red | Slide 1, array 1 |
-| Purple | Slide 1, array 2 |
-| Blue | Slide 1, array 3 |
-| Pink | Slide 1, array 4 |
-| Green | Slide 2, array 1 |
-| Yellow | Slide 2, array 2 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TEAM COLOR
+{{< thclose >}}
+{{< thopen >}}
+AGILENT SLIDE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Red
+{{< tdclose >}}
+{{< tdopen >}}
+Slide 1, array 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Purple
+{{< tdclose >}}
+{{< tdopen >}}
+Slide 1, array 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Blue
+{{< tdclose >}}
+{{< tdopen >}}
+Slide 1, array 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pink
+{{< tdclose >}}
+{{< tdopen >}}
+Slide 1, array 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Green
+{{< tdclose >}}
+{{< tdopen >}}
+Slide 2, array 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Yellow
+{{< tdclose >}}
+{{< tdopen >}}
+Slide 2, array 2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  Begin by mixing the cDNA pools you have synthesized into one eppendorf tube. The total volume should be 57 µl. Add 57 µl of 2X Hybridization Buffer. Pipet up and down several times to mix the contents.
 2.  Heat your hybridization solutions to 80° for 10 minutes then cool them to room temperature. During this time you will be shown how to assemble the hybridization chambers.
