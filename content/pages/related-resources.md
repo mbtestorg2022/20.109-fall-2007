@@ -18,7 +18,7 @@ Writing Web Links
 
 The following links are helpful places to do further investigation into good writing:
 
-Swan, Judith A., and George D. Gopen. "The Science of Scientific Writing." _American Scientist_ 78 (November-December 1990): 550-558. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf)) - A very useful article that analyzes the structure and style of scientific writing.
+Swan, Judith A., and George D. Gopen. "The Science of Scientific Writing." _American Scientist_ 78 (November-December 1990): 550-558. ([PDF](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf)) - A very useful article that analyzes the structure and style of scientific writing.
 
 Writing Up Research - A fairly comprehensive explanation of the components of the research article from the Asian Institute of Technology.
 
