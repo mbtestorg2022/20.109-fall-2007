@@ -11,7 +11,7 @@ Modules: [1.1]({{< baseurl >}}/pages/labs/mod1_1) | [1.2]({{< baseurl >}}/pages/
 Introduction
 ------------
 
-![Creative drawing of whimsical creatures and a DNA double helix.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/introduction.jpg)
+{{< resource "1937de87-dab9-267b-fb14-f9e1440844ac" >}}
 
 Image courtesy of Justin Lo. Used with permission.
 

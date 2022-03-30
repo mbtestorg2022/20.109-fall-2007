@@ -43,7 +43,7 @@ In this experiment, we will consider the genome of a virus, namely the bacteriop
 
 Photo of M13-coated coli removed due to copyright restrictions.
 
-![M13-coated coli; map of M13 genome.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/lecture-notes/coated_coli_m13.jpg)
+{{< resource "95332b7d-0591-fe48-9b78-cb45d01bee35" >}}
 
 Map of M13 genome from M. Blaber. (Images courtesy of Dr. Michael Blaber. Used with permission.)
 
@@ -156,7 +156,7 @@ TA: Alice Lo
 
 In this experiment, we will consider unintended and unpredicted effects of an experimental perturbation. Our goal is a precise one, namely to silence gene expression of a measurable gene, luciferase, using RNA interference (RNAi). Each group will begin by designing a short interfering RNA (siRNA) against luciferase, but as we'll see, siRNAs can vary in efficacy and specificity. After transfecting a mammalian cell line with the siRNA you've designed and a reporter plasmid, we will evaluate the silencing using a luciferase assay and microarray technology. The first assay evaluates the efficacy of the siRNA in silencing. The second assay gives genome-wide expression data to reveal the specificity of your siRNA for the gene you've targeted. Through this combined approach, we'll assess the balance of targeted and off-target effects.
 
-![Child jumping through sprinkler, with sunlight.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/lecture-notes/natalie.jpg)
+{{< resource "df3860ee-f8ec-eaa5-1334-dafd105233b4" >}}
 
 Child jumping through sprinkler, with sunlight. Photo by Natalie Kuldell.
 
@@ -257,7 +257,7 @@ Module 3: Biomaterials Engineering
 
 "Invention" is a wonderful word, derived from words meaning "scheme" and "a finding out." Inventors draw on materials provided by the natural world, refining and combining them in insightful ways, to make something useful. In this experimental module we will invent materials by manipulating biological systems, namely the bacteriophage M13. We will use a very slightly modified phage to build Iridium nanowires that we'll visualize on the transmission electron microscope. Then we'll let the phage themselves do the building, making an electrochromic device that's both fun and potentially useful. Drawing on the rich stockroom of biological elements and a good but incomplete understanding of their behavior, we'll hope to invent some novel materials with real-world applications.
 
-![TEM of M13E4 after CoCl2/NaBH4 treatment.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/tem_of_m13e4.jpg)
+{{< resource "107cc2df-38d6-3721-0a4e-167abed29179" >}}
 
 TEM of M13E4 after CoCl2/NaBH4 treatment, image courtesy of Natalie Kuldell, Anthony Garratt-Reed and KiTae Nam.
 

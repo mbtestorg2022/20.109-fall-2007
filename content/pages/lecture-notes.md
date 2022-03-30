@@ -22,7 +22,7 @@ In this experiment, we will consider the genome of a virus, namely the bacteriop
 
 Photo of M13-coated coli removed due to copyright restrictions.
 
-![M13-coated coli; map of M13 genome.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/lecture-notes/coated_coli_m13.jpg)
+{{< resource "95332b7d-0591-fe48-9b78-cb45d01bee35" >}}
 
 Map of M13 genome from M. Blaber. (Images courtesy of Dr. Michael Blaber. Used with permission.)
 
@@ -162,7 +162,7 @@ TA: Alice Lo
 
 In this experiment, we will consider unintended and unpredicted effects of an experimental perturbation. Our goal is a precise one, namely to silence gene expression of a measurable gene, luciferase, using RNA interference (RNAi). Each group will begin by designing a short interfering RNA (siRNA) against luciferase, but as we'll see, siRNAs can vary in efficacy and specificity. After transfecting a mammalian cell line with the siRNA you've designed and a reporter plasmid, we will evaluate the silencing using a luciferase assay and microarray technology. The first assay evaluates the efficacy of the siRNA in silencing. The second assay gives genome-wide expression data to reveal the specificity of your siRNA for the gene you've targeted. Through this combined approach, we'll assess the balance of targeted and off-target effects.
 
-![Child jumping through sprinkler, with sunlight.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/lecture-notes/natalie.jpg)
+{{< resource "df3860ee-f8ec-eaa5-1334-dafd105233b4" >}}
 
 Child jumping through sprinkler, with sunlight. Photo by Natalie Kuldell.
 

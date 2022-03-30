@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: dna_alignment.jpg
 uid: 79dff8dc-516a-edbf-4b42-e71298b9b33e

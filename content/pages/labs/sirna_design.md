@@ -21,7 +21,7 @@ RNAi can silence genes in mammalian cells although other expression effects, not
 
 The biochemistry of the RNAi pathway is relatively well characterized and the general features of siRNAs are known. To induce RNAi, a dsRNA is processed within the cell to an siRNA which then binds to its single-stranded mRNA target. The binding leads to the destruction of the mRNA, effectively silencing gene expression.
 
-![RNA Processing.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/rna_processing.jpg)
+{{< resource "00b9637c-471e-51cc-588b-1382fd94e94d" >}}
 
 RNA Processing.
 
@@ -137,9 +137,9 @@ Part 2: Introduction to Cell Culture
 
 In the past century, we have learned a tremendous amount by studying the behavior of mammalian cells maintained in the laboratory. Tissue culture was originally developed about 100 years ago as a method for learning about mammalian biology. The term tissue culture was originally coined because people were doing exactly that, extracting tissue and letting it live in a dish for a short time. Today, most tissue culture experiments are done using cultured cells. Much of what we know about cancer, heritable diseases, and the effects of the environment on human health has been derived from studies of cultured cells.
 
-![Normal Mouse Fibroblasts.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/normal_fibro.jpg)
+{{< resource "827835d6-4615-503c-c2d1-68f2657601f9" >}}
 
-![Transformed Mouse Fibroblasts.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/transform_fibro.jpg)
+{{< resource "2497796b-63eb-bba2-dbb7-d1d8985e0ee4" >}}
 
 Normal and Transformed Mouse Fibroblasts. (Courtesy of G. Stephen Martin. Used with permission.)
 
@@ -164,7 +164,7 @@ Each of you will have a 25 cm2 flask of mouse embryonic stem (MES) cells that yo
 9.  Fill one chamber of a hemocytometer with 10 µl of the cell suspension. This slide has an etched grid of nine large squares. The square in the center is further etched into 25 squares each with a volume of 0.1 µl and 16 tiny chambers (4x4 pattern). The concentration of cells in a sample can be determined by counting the cells that fall within the 4x4 pattern and then multiplying by 10,000 to determine the number of cells/ml. You should count the cells in the four corner squares of the 25 square grid, then average the numbers to determine the concentration of cells in your suspension.  
       
     
-    ![Counting cells using a hemocytometer.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/hemocytometer.jpg)
+    {{< resource "06cb4616-f9e6-1736-fa77-3c3c2b52e62b" >}}
     
     Counting cells using a hemocytometer.
     

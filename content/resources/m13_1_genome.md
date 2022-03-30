@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: m13_1_genome.jpg
 uid: 1203dc18-df39-55b5-b747-c6fa1e34cc35

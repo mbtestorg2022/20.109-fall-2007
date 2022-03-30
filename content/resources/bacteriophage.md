@@ -10,6 +10,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: bacteriophage.jpg
 uid: 07c4e057-7534-47fa-e7e6-f9745121cc6c

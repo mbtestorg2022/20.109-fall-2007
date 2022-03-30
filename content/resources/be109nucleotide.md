@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: be109nucleotide.jpg
 uid: 1bac1440-e299-aca3-1ba6-7135033c94ae

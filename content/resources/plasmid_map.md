@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: plasmid_map.jpg
 uid: 3a9c843b-2c65-fc79-d7c3-a3c385a32211

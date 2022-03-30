@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: transform_fibro.jpg
 uid: 2497796b-63eb-bba2-dbb7-d1d8985e0ee4

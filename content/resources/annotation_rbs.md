@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: annotation_rbs.jpg
 uid: 724bb2b1-21d1-bb1d-3444-4f781b2812ba

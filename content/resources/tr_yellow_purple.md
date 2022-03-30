@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: tr_yellow_purple.jpg
 uid: 0fe75e32-af0c-40f0-b6aa-39dbb0a463cd

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: hemocytometer.jpg
 uid: 06cb4616-f9e6-1736-fa77-3c3c2b52e62b

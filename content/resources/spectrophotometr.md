@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: spectrophotometr.jpg
 uid: ade9e7df-fb83-3655-f93a-a28e9d52d764

@@ -15,7 +15,7 @@ Luciferase is an enzyme that oxidizes its substrate, luciferin. The product, oxy
 
 Luciferin-luciferase pairs are widely used in nature for courtship, camouflage or baiting. Fireflies (also known as lightning bugs or more technically Photinus pyralis) use an ATP-requiring luciferin-luciferase pair and emit species-specific patterns of light as part of their mating ritual. Bioluminescent bacteria (such as Vibrio harveyi) can be found in symbiotic relationships with marine organisms. The fish give such bacteria a suitable home and in return the bacteria emit light to give the fish "night vision,” or to mask the fish's shadow, effectively cloaking them from their prey. The usefulness of such luciferin/luciferase pairs was not lost to researchers who began isolating and sequencing luciferase genes from different organisms in order to clone them into useful vectors, such as the one we'll use today.
 
-![Firefly.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/firefly.jpg)![Plasmid map.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/plasmid_map.jpg)![Sea pansy.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/sea_pansy.jpg)
+{{< resource "f01d4963-9e49-5b67-6a97-0b6b1f20e592" >}}{{< resource "3a9c843b-2c65-fc79-d7c3-a3c385a32211" >}}{{< resource "51e27964-808d-958d-7ea9-f32eb2baf6e3" >}}
 
 Left to right: Firefly photo courtesy of Eloise Mason ([Flickr](http://www.flickr.com/photos/eloisemason/235967054/)). Plasmid map. (Courtesy of Promega Corporation. Used with permission.) "Sea pansy" (Renilla reniformis) courtesy of NOAA.
 
@@ -23,7 +23,7 @@ Unexpectedly, there is little primary sequence similarity for luciferases from d
 
 In many ways, the assay for luciferase activity is a "standard" assay. The enzyme and substrate must react for a defined time and the amount of product gets recorded. What's a little unusual is that in this case the measured product is light and the light can be quantified using a luminometer. Today's reactions are slightly more advanced than standard ones in that you'll perform two sequential measurements. The first reaction is initiated with Beetle luciferin, a substrate for firefly luciferase. The light produced, called a "flash reaction” because it does not persist, will be measured for 10 seconds and then a reagent to stop the reaction will be added. The stop reagent also contains the substrate to initiate the second reaction. Coelenterazine reacts with Renilla luciferase in a "glow reaction” which decays more slowly but you will measure it for precisely 10 seconds so the lumens emitted can be compared to those from the firefly luciferase. There are several attractive aspects to these reactions including the assay's low cost, high speed, great sensitivity (to attomolar amounts of luciferase, that's 10-18th!) and wide dynamic range, linear through 7 orders of magnitude. It is also beneficial that there is no endogenous luciferase-luciferin pair in most experimental organisms.
 
-![Plasmid reaction.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/reaction.jpg)
+{{< resource "fc6abb06-eb9b-6afc-e8ce-809d4edcd7d6" >}}
 
 Plasmid reaction. (Courtesy of Promega Corporation. Used with permission.)
 
@@ -44,7 +44,7 @@ Two days ago, cells were prepared for you at a density of 1 X 10^5 cells/well in
 
 A schematic of your experiment is shown below.
 
-![Transfection scheme.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/schematic.jpg)
+{{< resource "4457667d-815b-8687-9670-723ed23771b0" >}}
 
 Transfection Scheme.
 

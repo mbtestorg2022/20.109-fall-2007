@@ -13,7 +13,7 @@ Introduction
 
 Today you will ligate your linearized M13KO7 backbone with your oligonucleotide insert by mixing the two in the presence of ATP and an enzyme, T4 DNA ligase. During the ligation reactions, hydrogen bonds will form between the overhangs on the fragments, and then the ligase will repair the phosphate backbone, creating a stable circular plasmid
 
-![Diagram of DNA ligation.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_3_dnaligatn.jpg)
+{{< resource "459faa08-ec33-32ab-428c-52068e62ce5b" >}}
 
 Ligation Reactions. (Figure by MIT OpenCourseWare.)
 
@@ -23,7 +23,7 @@ Hopefully, your ligation reactions will generate your desired construct, namely 
 
 You will transform today's ligation reactions into bacteria. During 'transformation,' a single plasmid from the ligation mixture enters a single bacterium and, once inside, replicates and expresses the genes it encodes. One of the genes on the M13KO7 genome leads to kanamycin-resistance. Thus, a transformed bacterium will grow on agar medium containing kanamycin. Untransformed cells will die before they can form a colony on the agar surface.
 
-![Diagram showing bacterial transformation on an antibiotic medium.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_3_sche_bact.jpg)
+{{< resource "88e1e95b-b4ae-de64-60db-bb0924980b51" >}}
 
 Growing colonies on medium, showing that only bacteria with plasmid grow into colonies. (Figure by MIT OpenCourseWare.)
 

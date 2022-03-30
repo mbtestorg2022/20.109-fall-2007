@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 085e6576-1baf-aa63-e1ae-ea01ee1cabbb
 resourcetype: Image
 title: natalie.jpg
 uid: df3860ee-f8ec-eaa5-1334-dafd105233b4

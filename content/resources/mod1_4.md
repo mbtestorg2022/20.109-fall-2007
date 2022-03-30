@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: mod1_4.jpg
 uid: 5d2242a5-d9a3-e0a9-e658-ec9892715679

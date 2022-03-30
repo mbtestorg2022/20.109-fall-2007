@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: mod1_2cncntrtn_ba.jpg
 uid: 3ba88c95-afe9-a246-3ee0-cf5510695258

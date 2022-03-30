@@ -20,7 +20,7 @@ Phage Particles
 
 The phage coat is primarily assembled from a 50 amino acid protein called pVIII (or p8), which is sensibly enough encoded by gene VIII (or g8) in the phage genome. For a wild type M13 particle, it takes about ~2700 copies of p8 to make the ~900 nm long coat. The coat's dimensions are flexible though and the number of p8 copies adjusts to accommodate the size of the single stranded genome it packages. For example, when the phage genome was mutated to reduce its number of DNA bases (from 6.4 kb to 221 bp) [\[3\]](http://www.ncbi.nlm.nih.gov/pubmed/1469710?dopt=AbstractPlus), then the p8 coat "shrink wraps" around the reduced genome, decreasing the number of p8 copies to less than 100. Electron micrographs of the resulting "microphage" and its wild type parent are shown below (image courtesy of Esther Bullitt, Boston University School of Medicine), where the black bar in each image is 50 nm long. And what about the upper limit to the length of the phage particle? Anecdotally, viable phage seems to top out at approximately twice the natural DNA content. However, deletion of a phage protein (p3) prevents full escape from the host E. coli, and phages that are 10-20X the normal length with several copies of the phage genome can be seen shedding from the E. coli host (look at the image on the coverpage to this module).
 
-![Electron micrographs of microphage described by Specthrie](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/bacteriophage.jpg)
+{{< resource "07c4e057-7534-47fa-e7e6-f9745121cc6c" >}}
 
 Figure 1. Electron micrographs of microphage described by Specthrie, et al. Source: Specthrie, L., et al. "Construction of a Microphage Variant of Filamentous Bacteriophage." _J Mol Biol_ 228, no. 3 (December 5, 1992): 720-724. Courtesy of Elsevier, Inc. [ScienceDirect](http://www.sciencedirect.com/). Used with permission.
 
@@ -31,13 +31,13 @@ Phage Life-cycle
 
 The general stages to a viral life cycle are: infection, replication of the viral genome, assembly of new viral particles and then release of the progeny particles from the host. Filamentous phages use a bacterial structure known as the F pilus to infect E. coli, with the M13 p3 tip contacting the TolA protein on the bacterial pilus. The phage genome is then transferred to the cytoplasm of the bacterial cell where resident proteins convert the single stranded DNA genome to a double stranded replicative form ("RF"). This DNA then serves as a template for expression of the phage genes.
 
-![Cartoon of phage life cycle.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/life_cycle.jpg)
+{{< resource "95bb556c-328b-4450-e9db-5046f77188e2" >}}
 
 Figure 2. Cartoon of phage life cycle.
 
 Two phage gene products play critical roles in the next stage of the phage life cycle, namely amplification of the genome. pII (aka p2) nicks the double stranded form of the genome to initiate replication of the + strand. Without p2, no replication of the phage genome can occur. Host enzymes copy the replicated + strand, resulting in more copies of double stranded phage DNA. pV (aka p5) competes with double stranded DNA formation by sequestering copies of the + stranded DNA into a protein/DNA complex destined for packaging into new phage particles. Interestingly there is one additional phage-encoded protein, pX (p10), that is important for regulating the number of double stranded genomes in the bacterial host. Without p10 no + strands can accumulate. What's particularly interesting about p10 is that it's identical to the C-terminal portion of p2 since the gene for p10 is within the gene for p2 and the protein arises from transcription initiation within gene 2. This makes the manipulation of p10 inextricably linked to manipulation of p2 (an engineering headache) but it also makes for a compact and efficient phage in nature.
 
-![M13 protein functions table.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/protein_function.jpg)
+{{< resource "d4521e13-1c34-7791-8a0e-f7336384c1ee" >}}
 
 Table 1. M13 protein functions.
 
@@ -81,7 +81,7 @@ Restriction endonucleases, also called restriction enzymes, cut ("digest") DNA a
 
 The sequence of DNA that is bound and cleaved by an endonuclease is called the recognition sequence or restriction site. These sequences are usually four or six base pairs long and palindromic, that is, they read the same 5' to 3' on the top and bottom strand of DNA. For example the recognition sequence for EcoRI is shown in the figure. Other restriction enzymes, for example HaeIII, cut in the middle of the palindrome leaving no DNA overhang, called a "blunt end."
 
-![Diagram of the restriction endonuclease EcoRI.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_1_eco_ri.jpg)
+{{< resource "5bc3aa15-59d4-646b-cd70-402e0d9d52c3" >}}
 
 EcoRI cuts between the G and the A on each strand of DNA, leaving a single stranded DNA overhang (also called a "sticky end") when the strands separate. (Figure by MIT OpenCourseWare.)
 
@@ -179,25 +179,25 @@ Begin by opening and printing the translated M13KO7 g3p ([PDF]({{< baseurl >}}/r
 
 Find the BamHI site on this sequence. It should fall across an E D P sequence about halfway through the protein translation. At the bottom of the printout, write the double stranded sequence for this region, grouping the E D P sequence into the correct codon triplets and indicating the overhanging single stranded sequences you will have once the DNA is digested. Write each strand with the overhangs in lowercase letters and the other ("annealed") bases in the traditional uppercase throughout. Now you're ready to plan your insert. Plan the top strand of the insert first
 
-![DNA Strand](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_strand.jpg)
+{{< resource "ff0b4172-5ac2-11a8-471c-ee1c2f69ed59" >}}
 
 ### Top Strand, Step 1
 
 Open a new Microsoft® Word file to document your design. For each step, note the step number, the purpose, and then the sequence, including an indication of the 5' end. Begin your top strand oligonucleotide with the 4 base overhang (in lowercase) that could anneal to the M13KO7 backbone you've digested with BamHI. Put a comma, slash or space between codons.
 
-![DNA Strand 1](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_strand1.jpg)
+{{< resource "92d35104-2c6d-7038-2fdd-66006728e4af" >}}
 
 ### Top Strand, Step 2
 
 If the next base in your oligonucleotide was "C" then it would regenerate the BamHI site when added back to the M13KO7 plasmid backbone. This is not desirable, for reasons that will be clear later. So pick some other base for the next base of your oligonucleotide.
 
-![DNA Strand 2](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_strand2.jpg)
+{{< resource "99167740-ab2e-ae0d-0601-58d4fa4f4e8a" >}}
 
 ### Top Strand, Step 3
 
 Add the first of two new restriction sites that will be unique to M13KO7. Review the list of zero cutter enzymes \<\*\*link to mod1.1\_zerocutters.txt> that don't cut M13KO7 can be found here. Using the base from step 2 as the first base of the new site, fill in the rest of the sequence for a new restriction site, including commas, slashes or spaces between codons. Underline the new site and then, just below the sequence, write the name of the enzyme that recognizes it.
 
-![DNA Strand 3](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_strand3.jpg)
+{{< resource "72c49e61-f8cd-8be0-76a9-ab47bdc3f332" >}}
 
 ### Top Strand, Step 4
 
@@ -211,13 +211,13 @@ Use the 3' base from the site designed in step 3 to add another unique site down
 
 Now you're ready to design the bottom strand. This will be a breeze, with the only really tricky part coming at the end when you turn the sequence you've designed around, to list it in the 5' to 3' direction as convention dictates.
 
-![DNA Strand 4](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_strand4.jpg)
+{{< resource "479a1cbb-c277-af26-9f8c-b0bc2a52d4b3" >}}
 
 ### Bottom Strand, Step 1
 
 You'll be designing this oligo from the 3' end so be sure to write that on your Microsoft® Word document before listing any bases that you'll want to include. Then write the complementary sequence to all but the first 4 bases of your top oligo. By leaving off the first 4 bases, they will remain unpaired when the top and bottom strand anneal. Though it's not needed for translation (you've done that already!), it's helpful to put a comma, space or slash between the codons just to keep yourself in register.
 
-![DNA Strand 5](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_strand5.jpg)
+{{< resource "9e2aee79-4b23-e71e-27a9-1896d121cc8c" >}}
 
 ### Bottom Strand, Step 2
 

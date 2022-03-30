@@ -17,13 +17,13 @@ For Western analysis, a high quality antibody can have a relatively low affinity
 
 Many species can be used to raise antibodies. Most commonly mice, rabbits, and goats are immunized, but other animals like sheep, chickens, rats and even humans can be used. The protein used to raise an antibody is called the antigen and the portion of the antigen that is recognized by an antibody is called the epitope. Each antibody can recognize only a small portion of its antigen, typically 5 to 6 amino acids. Some antibodies are monoclonal, or more appropriately "monospecific," and recognize one epitope, while other antibodies, called polyclonal antibodies, are in fact antibody pools that recognize multiple epitopes. We will be using a monoclonal antibody against the p3 protein today, but for the sake of completion, the origin of both polyclonal and monoclonal antibodies are described.
 
-![Generating polyclonal antibodies.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/polyclonal_ab.jpg)
+{{< resource "13034303-257c-731e-cfe0-8f6ba6467e6a" >}}
 
 Generating monoclonal antibodies.
 
 To raise polyclonal antibodies, the antigen of interest is first purified and then injected into an animal. To elicit and enhance the animal's immunogenic response, the antigen is often injected multiple times over several weeks in the presence of an immune-boosting compound called adjuvant. After some time, usually 4 to 8 weeks, samples of the animal's blood are collected and the cellular fraction is removed by centrifugation. What is left, called the serum, can then be tested in the lab for the presence of specific antibodies. Even the very best antisera have no more than 10% of their antibodies directed against a particular antigen. The quality of any antiserum is judged by its purity (that it has few other antibodies), its specificity (that it recognizes the antigen and not other spurious proteins) and its concentration (sometimes called its titer). Animals with strong responses to an antigen can be boosted with the antigen and then bled many times, so large volumes of antisera can be produced. However animals have limited life-spans and even the largest volumes of antiserum will eventually run out, requiring a new animal for immunization. The purity, specificity and titer of the new antiserum will likely differ from that of the first batch. High titer antisera against bacterial and viral proteins can be particularly precious since these antibodies are difficult to raise; most animals have seen these immunogens before and therefore don't mount a major immune response when immunized. Antibodies against toxic proteins are also challenging to produce if they make the animals sick.
 
-![Generating monoclonal antibodies.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/monoclonal.jpg)
+{{< resource "2c432764-79a1-f8f5-6dcc-7a18120ec7f2" >}}
 
 Antibody-secreting cells are first isolated from an immunized animal, usually a mouse, and then fused with an immortalized cell line such as a myeloma.
 
@@ -66,9 +66,9 @@ Align with "CLUSTAL-W" from [EMBL-EBI](http://www.ebi.ac.uk/)
 2.  In the box labelled "Enter or Paste a set of Sequences in any supported format: you should type ">my\_sequence\_name," and on the following line paste the sequence text from your sequencing run.If there were ambiguous areas of your sequencing results, these will be listed as "N" rather than "A" "T" "G" or "C" and it's fine to include Ns in the query.
 3.  On the following line you should type ">M13KO7" followed by the M13KO7 sequence from NEB's site for [DNA Sequence Information](https://www.neb.com/tools-and-resources/interactive-tools/dna-sequences-and-maps-tool).
 4.  Hit "run" and the sequence alignment will be available in several formats. If you scroll down the page there will be areas that are aligned. These are indicated with \* as shown here.  
-    ![DNA sequence alignment.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_sequence.jpg)
+    {{< resource "7331e056-f590-51bb-d264-a0b28ec17636" >}}
 5.  Alternatively you can look at the data with "Jalview," scrolling to find alignments like this:  
-    ![Jalview of sequence alignment.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/dna_alignment.jpg)
+    {{< resource "79dff8dc-516a-edbf-4b42-e71298b9b33e" >}}
 
 Align with "bl2seq" from [NCBI](http://www.ncbi.nlm.nih.gov/)
 -------------------------------------------------------------

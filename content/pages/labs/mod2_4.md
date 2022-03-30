@@ -104,7 +104,7 @@ See the [Module 1 Day 6 lab]({{< baseurl >}}/pages/labs/mod1_6) for refresher in
 
 Data can be presented like this
 
-![Sample western data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/samplewestern.jpg)
+{{< resource "2d90b3f7-8e4a-5865-a800-5b5963de5ae3" >}}
 
 Sample western data, fig 10B. Source: Li, Long-Cheng, et al. "Small dsRNAs Induce Transcriptional Activation in Human Cells." _PNAS_ 103 no. 46 (2006): 17337-42. (© 2006 National Academy of Sciences, U.S.A. Used with permission.)
 
@@ -116,7 +116,7 @@ Where the treatment variation is shown above the gel lanes, the intensity of the
 
 See [this link](http://openwetware.org/wiki/BE.109:Systems_engineering/Measuring_DNA,_RNA,_protein) for some description of RNA measurement techniques including RT-PCR. You might also want to learn a little about standard PCR if you're not already familiar with this technique. Most biology textbooks describe PCR or you could look at some animations of the process, for example [here](http://www.dnai.org/b/index.html), just follow the links through "techniques" and "amplifying DNA."
 
-![Sample RT-PCR data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/sample_rtpcr.jpg)
+{{< resource "5626c9f5-d00a-d897-818d-32264a42b35a" >}}
 
 Sample RT-PCR data, fig 12A and 12B. Source: Li, Long-Cheng, et al. "Small dsRNAs Induce Transcriptional Activation in Human Cells." _PNAS_ 103 no. 46 (2006): 17337-42. (© 2006 National Academy of Sciences, U.S.A. Used with permission.)
 
@@ -128,7 +128,7 @@ Data can be presented as bands on a gel (top panel in sample figure) or normaliz
 
 Microscopic observation, though qualitative, can be an important "sanity check" for the molecular results like Westerns and RT-PCR. Cell numbers can be compared after different treatments, and cell appearance can be noted. For example
 
-![Sample microscopy data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/samplecellshape.jpg)
+{{< resource "edcf38e4-1d77-729b-a1dc-afe903a3c9bc" >}}
 
 Sample microscopy data, fig 11. Source: Li, Long-Cheng, et al. "Small dsRNAs Induce Transcriptional Activation in Human Cells." _PNAS_ 103 no. 46 (2006): 17337-42. (© 2006 National Academy of Sciences, U.S.A. Used with permission.)
 
@@ -140,7 +140,7 @@ The cell type is noted to the left of the images, the treatment is described abo
 
 This technique is **used to quantitatively assess a protein's occupancy at a particular place on the DNA**. Proteins get chemically crosslinked to the DNA, the DNA gets sheered into small (~350 bp) fragments, and an antibody to the protein is used to precipitate (i.e. pull out of solution) the DNA that the protein is bound to. What makes this technique so powerful is the variety and specificity of antibodies that are available. For example, antibodies can recognize the difference between a methyl group on a histone protein's lysine 9 and a methyl group on the same histone protein's lysine 4. Another antibody can distinguish one methyl group on lysine 9 from two methyl groups on lysine 9. After immunoprecipitation, PCR is used (again!) to measure the amount of DNA that was precipitated. Because the number of PCR cycles is limited, a brighter band for the product means more starting DNA in the PCR tubes, which in turn means more of the protein that was recognized by the antibody. Data is usually presented as bands on a gel, as with RT-PCR, or as bar graphs that normalize the intensity to some reference sample. For example
 
-![Sample ChIP data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/samplechip.jpg)
+{{< resource "b1902f27-cc1e-bec8-fe3c-ada22fe26bb8" >}}
 
 Sample ChIP data, fig 6. Source: Li, Long-Cheng, et al. "Small dsRNAs Induce Transcriptional Activation in Human Cells." _PNAS_ 103 no. 46 (2006): 17337-42. (© 2006 National Academy of Sciences, U.S.A. Used with permission.)
 

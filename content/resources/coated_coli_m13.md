@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 085e6576-1baf-aa63-e1ae-ea01ee1cabbb
 resourcetype: Image
 title: coated_coli_m13.jpg
 uid: 95332b7d-0591-fe48-9b78-cb45d01bee35

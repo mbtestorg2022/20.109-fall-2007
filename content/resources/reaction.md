@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: reaction.jpg
 uid: fc6abb06-eb9b-6afc-e8ce-809d4edcd7d6

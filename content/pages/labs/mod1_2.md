@@ -15,7 +15,7 @@ Electrophoresis is a technique that separates large molecules by size using an a
 
 DNA and RNA are negatively charged molecules due to their phosphate backbone, and they naturally travel toward the positive charge at the far end of the gel. They are typically examined with agarose gels. Proteins are composed of amino acids that can be positively, negatively or uncharged. To give proteins a uniformly negative charge, they are coated with a detergent, SDS, prior to running them on a gel. Protein samples are also boiled to remove any secondary structure that might make two molecules of the same size migrate differently. Polyacrylamide is the matrix commonly used to separate proteins. These gels are typically run vertically while agarose gels are run horizontally but gravity has nothing to do with the separation.
 
-![Diagram of agarose gel setup.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_2_photo.jpg)
+{{< resource "d329fe15-4880-1b95-614e-492ca5e08a34" >}}
 
 Diagram of agarose gel setup, for agarose gel electrophoresis. (Figure by MIT OpenCourseWare.)
 
@@ -23,11 +23,11 @@ Today you will separate DNA fragments using an agarose matrix. Agarose is a poly
 
 The distance a DNA fragment travels is inversely proportional to its length. Over time fragments of similar length accumulate into “bands” in the gel. Higher concentrations of agarose can be used to resolve smaller DNA fragments. This figure shows the same DNA fragments resolved with three agarose concentrations. The 1000 base pair fragment is indicated in each.
 
-![DNA fragments resolved with three agarose concentrations at 0.7, 1.0 and 1.5%.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_2cncntrtn_ba.jpg)
+{{< resource "3ba88c95-afe9-a246-3ee0-cf5510695258" >}}
 
 DNA fragments resolved with three agarose concentrations. The line indicates the 1000 base pair fragment. (Figure by MIT OpenCourseWare.)
 
-![scanning_em.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/scanning_em.jpg)
+{{< resource "cf6176a3-1102-8bd5-dc3f-abf317191ac3" >}}
 
 Size vs. migration distance.
 
@@ -189,7 +189,7 @@ Empty
 
 {{< tableclose >}}
 
-![Diagram of loading agarose gel.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/mod1_2_agaro_gel.jpg)
+{{< resource "872825d1-3271-0d3d-b284-b156c3298b4f" >}}
 
 Loading a gel. (Figure by MIT OpenCourseWare.)
 
@@ -210,7 +210,7 @@ To purify your DNA from the agarose, you will use a kit sold by Qiagen. The reag
 
 One technique you will see several times this term is plating for plaques. The idea of this technique is simple. Since phage infection slows down the growth of bacteria, any phage-infected cell will grow less quickly than an uninfected one, giving rise to a zone that is more clear on a lawn of fully grown cells. This zone is called a plaque and by counting the number of plaques formed, it is possible to measure the number of infective phage in the sample you are testing. The number of infected phages is measured as PFUs, which is "plaque forming units per ml."
 
-![Plaques.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/plaques.jpg)
+{{< resource "4f330970-4aee-bdbb-82c8-37fd5a00e3a0" >}}
 
 Plaques formed by bacteriophage upon infection of susceptible bacteria. Source: Assorted Views of Bacteriophage Plaques. © Quiroz. Licensed for use, [ASM MicrobeLibrary](http://www.microbelibrary.org/).
 

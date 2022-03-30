@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: mod1_1_eco_ri.jpg
 uid: 5bc3aa15-59d4-646b-cd70-402e0d9d52c3

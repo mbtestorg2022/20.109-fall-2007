@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: dna_strand3.jpg
 uid: 72c49e61-f8cd-8be0-76a9-ab47bdc3f332

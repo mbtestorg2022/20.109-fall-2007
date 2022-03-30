@@ -15,7 +15,7 @@ Two images removed due to copyright restrictions.
 
 1\. Changing biological classification models — two to three to five kingdoms, now three domains of life. 2. The geocentric model of the solar system
 
-![Touched by His Noodly Appendage.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-fall-2007/labs/touched.jpg)
+{{< resource "87e23ff4-b34d-a24b-6ee6-fd1e5c25358a" >}}
 
 FSM and the moment of creation. (Image courtesy of [Wikipedia](http://www.venganza.org/).)
 

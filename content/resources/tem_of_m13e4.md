@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: tem_of_m13e4.jpg
 uid: 107cc2df-38d6-3721-0a4e-167abed29179

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: mac_hd_nku_p3abi.jpg
 uid: ab4c43ee-2955-2145-3db2-bf732f7dbf67

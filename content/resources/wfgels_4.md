@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: fc19e690-0ca7-af8b-d48d-3a5a9e329f01
 resourcetype: Image
 title: wfgels_4.jpg
 uid: d46207bf-8a2a-4cd5-a4f8-426fc5244034
